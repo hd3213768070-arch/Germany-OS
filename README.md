@@ -1,60 +1,217 @@
 # 🇩🇪 Germany OS
 
-> Build once, publish everywhere.
-
-Germany OS 是一个面向中文用户的德国知识平台。
-
-我们的目标不是运营一个小红书账号，而是建立一个可以长期发展的德国知识数据库。
+> Build Once. Publish Everywhere.
 
 ---
 
-## 🎯 Mission
+# Mission
 
-帮助中文用户解决德国留学、生活、工作中的所有问题。
+Germany OS aims to become the largest Chinese knowledge platform about studying, living and working in Germany.
 
----
-
-## 🌍 Current Channels
-
-- 小红书（流量入口）
-- Website（开发中）
-- AI Assistant（规划中）
+Instead of building a social media account, Germany OS builds a long-term digital knowledge database.
 
 ---
 
-## 📚 Core Categories
+# Vision
 
-- 🏠 租房
-- 🎓 LMU / TUM
+When Chinese users have any question about Germany, Germany OS should become one of the first places they visit.
+
+---
+
+# Core Philosophy
+
+Small Red Book (Xiaohongshu) is **not** the product.
+
+It is only a traffic channel.
+
+The real asset is the Germany Database.
+
+```
+Traffic
+
+Xiaohongshu
+Google
+Baidu
+YouTube (Future)
+
+        │
+
+        ▼
+
+Germany Database
+
+        │
+
+        ▼
+
+Website
+AI
+PDF
+Tools
+Knowledge Base
+
+        │
+
+        ▼
+
+Revenue
+```
+
+---
+
+# Project Structure
+
+```
+Germany-OS
+
+README.md
+
+docs/
+
+database/
+
+website/
+
+ai/
+
+assets/
+```
+
+---
+
+# Core Categories
+
+- 🏠 Housing
+- 🎓 Universities (LMU / TUM)
 - 📄 APS
-- 🛂 签证
-- 💼 找工作
-- 🛒 德国生活
-- 🚇 交通
-- ⚖️ 法律法规
+- 🛂 Visa
+- 💼 Jobs
+- 🛒 Daily Life
+- 🚇 Transportation
+- ⚖️ German Rules
+- 🧰 Tools
 
 ---
 
-## 🚀 Roadmap
+# Build Once, Publish Everywhere
 
-Phase 1
+Every piece of content should be reusable.
 
-- 建立内容数据库
-- 完成100篇核心内容
-- 网站上线
+One topic should become:
 
-Phase 2
-
-- Google SEO
-- PDF产品
-- Affiliate
-
-Phase 3
-
-- Germany AI
-- AI知识库
-- 自动化内容系统
+- Xiaohongshu post
+- Website article
+- AI knowledge
+- PDF chapter
+- SEO page
+- Digital product
 
 ---
 
-Created by Germany OS.
+# Phase 1 (Current)
+
+## Goal
+
+Build the Germany Database.
+
+Current priorities:
+
+- Organize all existing content
+- Build content categories
+- Build content database
+- Create 100 future topics
+- Continue publishing on Xiaohongshu
+
+---
+
+# Phase 2
+
+Launch the website.
+
+Goals:
+
+- Google indexing
+- SEO
+- First 50–100 articles
+
+---
+
+# Phase 3
+
+Launch digital products.
+
+Including:
+
+- PDF Guides
+- Checklists
+- Templates
+- Affiliate pages
+
+---
+
+# Phase 4
+
+Launch Germany AI.
+
+Goals:
+
+- AI Assistant
+- Knowledge Search
+- Smart Recommendations
+- Interactive Tools
+
+---
+
+# Long-term Revenue
+
+Traffic →
+
+Germany Database →
+
+Website →
+
+AI →
+
+Digital Products →
+
+Affiliate →
+
+Membership →
+
+Consultation
+
+---
+
+# Core Principle
+
+We do **not** chase trends.
+
+We build long-term digital assets.
+
+Every piece of content should still have value years later.
+
+---
+
+# Current Status
+
+- Germany Database: In Progress
+- Xiaohongshu: Active
+- Website: Planning
+- AI: Planning
+
+---
+
+# Next Milestones
+
+- [ ] Finish content database
+- [ ] Finish topic database
+- [ ] Launch website MVP
+- [ ] Google Search Console
+- [ ] Publish first PDF
+- [ ] Launch Germany AI
+
+---
+
+**Germany OS**
+
+Building the most valuable Chinese knowledge platform for Germany.
