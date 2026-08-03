@@ -1,217 +1,203 @@
 # 🇩🇪 Germany OS
 
-> Build Once. Publish Everywhere.
+> 建立德国最大的中文知识平台。
 
 ---
 
-# Mission
+# 项目定位
 
-Germany OS aims to become the largest Chinese knowledge platform about studying, living and working in Germany.
+Germany OS 不是一个小红书账号。
 
-Instead of building a social media account, Germany OS builds a long-term digital knowledge database.
+也不是一个网站。
+
+更不是一个 AI。
+
+Germany OS 是一个围绕德国留学、德国生活、德国工作的知识操作系统（Knowledge Operating System）。
+
+未来所有内容都围绕同一个数据库进行管理。
 
 ---
 
-# Vision
+# 项目使命（Mission）
 
-When Chinese users have any question about Germany, Germany OS should become one of the first places they visit.
+帮助中文用户解决德国相关的所有问题。
+
+包括：
+
+- 🏠 租房
+- 🎓 大学（LMU / TUM）
+- 📄 APS
+- 🛂 签证
+- 💼 找工作
+- 🛒 德国生活
+- 🚇 交通
+- ⚖️ 法律法规
+- 🧰 实用工具
 
 ---
 
-# Core Philosophy
+# 核心理念
 
-Small Red Book (Xiaohongshu) is **not** the product.
+**内容不是一次性发布，而是长期资产。**
 
-It is only a traffic channel.
+每完成一篇内容，都应该能够用于：
 
-The real asset is the Germany Database.
+- 小红书
+- 网站
+- Google SEO
+- AI 知识库
+- PDF
+- 数字产品
 
-```
-Traffic
+遵循：
 
-Xiaohongshu
+> **一次创作，多次使用（Build Once, Publish Everywhere）**
+
+---
+
+# Germany OS 架构
+
+流量入口
+
+↓
+
+小红书
+
 Google
-Baidu
-YouTube (Future)
 
-        │
+百度
 
-        ▼
+（未来：YouTube、公众号）
 
-Germany Database
+↓
 
-        │
+Germany Database（核心资产）
 
-        ▼
+↓
 
 Website
+
 AI
+
 PDF
-Tools
-Knowledge Base
 
-        │
+工具
 
-        ▼
+↓
 
-Revenue
-```
+盈利
 
----
+Affiliate
 
-# Project Structure
+咨询
 
-```
-Germany-OS
+会员
 
-README.md
-
-docs/
-
-database/
-
-website/
-
-ai/
-
-assets/
-```
+数字产品
 
 ---
 
-# Core Categories
+# 第一阶段目标（当前）
 
-- 🏠 Housing
-- 🎓 Universities (LMU / TUM)
-- 📄 APS
-- 🛂 Visa
-- 💼 Jobs
-- 🛒 Daily Life
-- 🚇 Transportation
-- ⚖️ German Rules
-- 🧰 Tools
+建立 Germany Database。
 
----
+重点任务：
 
-# Build Once, Publish Everywhere
-
-Every piece of content should be reusable.
-
-One topic should become:
-
-- Xiaohongshu post
-- Website article
-- AI knowledge
-- PDF chapter
-- SEO page
-- Digital product
+- [ ] 整理所有历史内容
+- [ ] 建立内容数据库
+- [ ] 建立选题数据库
+- [ ] 建立内容分类
+- [ ] 持续更新小红书
+- [ ] 网站开始规划
 
 ---
 
-# Phase 1 (Current)
+# 第二阶段目标
 
-## Goal
+Website 上线。
 
-Build the Germany Database.
+完成：
 
-Current priorities:
-
-- Organize all existing content
-- Build content categories
-- Build content database
-- Create 100 future topics
-- Continue publishing on Xiaohongshu
-
----
-
-# Phase 2
-
-Launch the website.
-
-Goals:
-
-- Google indexing
+- Google 收录
 - SEO
-- First 50–100 articles
+- 第一批核心页面
 
 ---
 
-# Phase 3
+# 第三阶段目标
 
-Launch digital products.
+开始盈利。
 
-Including:
+包括：
 
-- PDF Guides
-- Checklists
-- Templates
-- Affiliate pages
-
----
-
-# Phase 4
-
-Launch Germany AI.
-
-Goals:
-
-- AI Assistant
-- Knowledge Search
-- Smart Recommendations
-- Interactive Tools
+- PDF
+- Affiliate
+- 模板
+- 咨询
 
 ---
 
-# Long-term Revenue
+# 第四阶段目标
 
-Traffic →
+Germany AI 上线。
 
-Germany Database →
+包括：
 
-Website →
-
-AI →
-
-Digital Products →
-
-Affiliate →
-
-Membership →
-
-Consultation
+- AI 问答
+- 智能搜索
+- 工具系统
 
 ---
 
-# Core Principle
+# 项目原则
 
-We do **not** chase trends.
+## 1. 不追热点，只积累资产
 
-We build long-term digital assets.
+热点可以做，但不是重点。
 
-Every piece of content should still have value years later.
-
----
-
-# Current Status
-
-- Germany Database: In Progress
-- Xiaohongshu: Active
-- Website: Planning
-- AI: Planning
+长期搜索内容永远优先。
 
 ---
 
-# Next Milestones
+## 2. 小红书只是流量入口
 
-- [ ] Finish content database
-- [ ] Finish topic database
-- [ ] Launch website MVP
-- [ ] Google Search Console
-- [ ] Publish first PDF
-- [ ] Launch Germany AI
+真正的产品：
+
+Germany Database。
 
 ---
 
-**Germany OS**
+## 3. 数据库只有一份
 
-Building the most valuable Chinese knowledge platform for Germany.
+所有平台都从同一个数据库读取内容。
+
+包括：
+
+- 小红书
+- 网站
+- AI
+- PDF
+
+---
+
+## 当前项目状态
+
+🟢 Germany Database：进行中
+
+🟢 内容分析：进行中
+
+🟡 网站：规划中
+
+🟡 AI：规划中
+
+⚪ 盈利：未开始
+
+---
+
+# 下一步
+
+完成 Germany Database。
+
+随后开始 Website MVP。
+
+最后开发 Germany AI。
