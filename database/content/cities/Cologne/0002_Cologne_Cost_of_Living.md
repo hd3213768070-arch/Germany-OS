@@ -1,0 +1,1 @@
+# Cologne Cost of Living

@@ -1,0 +1,1 @@
+# Leipzig Cost of Living

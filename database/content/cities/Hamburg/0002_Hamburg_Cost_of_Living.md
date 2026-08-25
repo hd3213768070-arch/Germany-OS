@@ -1,0 +1,1 @@
+# Hamburg Cost of Living

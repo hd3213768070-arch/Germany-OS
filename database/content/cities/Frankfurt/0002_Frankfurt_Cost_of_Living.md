@@ -1,0 +1,1 @@
+# Frankfurt Cost of Living

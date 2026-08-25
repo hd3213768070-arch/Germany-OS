@@ -1,0 +1,1 @@
+# Munich Cost of Living
