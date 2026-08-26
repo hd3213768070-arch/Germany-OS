@@ -15,13 +15,8 @@
 - Kunsthochschule
 - Musikhochschule
 
-看起来好像有很多种，但其实没有那么复杂。
+看起来好像有很多种，但其实没有那么复杂。重要的一点是, 德国的 Hochschule 是一个比较大的概念，而 Universität 是其中一种高校类型。所以，看到一所学校名字里写着 Hochschule，并不代表它和 Universität 完全是两回事；反过来也不能简单认为所有 Hochschule 都等同于 Universität。
 
-最重要的一点是：
-
-德国的 Hochschule 是一个比较大的概念，而 Universität 是其中一种高校类型。
-
-所以，看到一所学校名字里写着 Hochschule，并不代表它和 Universität 完全是两回事；反过来也不能简单认为所有 Hochschule 都等同于 Universität。
 
 ## 1. Hochschule 到底是什么？
 
