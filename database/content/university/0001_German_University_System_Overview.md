@@ -150,11 +150,7 @@ Hochschulkompass 也明确提到，近年来有一些 Fachhochschule 改名为 H
 
 ## 6. Fachhochschule（FH）和 HAW 是什么？
 
-另外一个非常重要的类型是：Fachhochschule（FH）
-
-以及现在越来越常见的 “Hochschule für Angewandte Wissenschaften（HAW）”
-
-中文通常可以理解为：应用科学大学 / 应用型高校。
+另外一个非常重要的类型是：Fachhochschule（FH）以及现在越来越常见的 “Hochschule für Angewandte Wissenschaften（HAW）” 中文通常可以理解为：应用科学大学 / 应用型高校。
 
 它们的特点通常更加偏向：
 
@@ -164,11 +160,7 @@ Hochschulkompass 也明确提到，近年来有一些 Fachhochschule 改名为 H
 - 实践教学
 - 应用研究
 
-例如很多 HAW / FH 会和企业保持比较密切的合作。
-
-因此，如果一个学生非常重视：“我希望学习的东西能够直接应用到工作中。”
-
-那么 HAW / FH 也非常值得考虑。
+例如很多 HAW / FH 会和企业保持比较密切的合作。因此，如果一个学生非常重视：“我希望学习的东西能够直接应用到工作中。” 那么 HAW / FH 也非常值得考虑。
 
 ## 7. HAW 和 Universität 最大的区别是什么？
 
