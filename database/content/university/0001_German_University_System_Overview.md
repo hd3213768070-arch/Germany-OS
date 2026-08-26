@@ -103,21 +103,50 @@ TU 本质上仍然属于 Universität 类型，只是学校的专业结构和研
 
 更准确的理解是：TU 是以技术、工程和自然科学研究见长的 Universität。
 
-## 5. Technische Hochschule（TH）又是什么？
+## 5. Technische Hochschule（TH）到底是什么？
 
-Technische Hochschule，简称 TH，是德国高校名称中比较容易让人困惑的一种。
+Technische Hochschule，简称 **TH**，直译可以理解为“技术类高等学校”。但这里有一个非常容易误解的地方 **Technische Hochschule（TH）并不是一个可以单纯用学校名字来判断的独立高校类型。**
 
-有些学校历史上是 Fachhochschule，后来改名为 Technische Hochschule；不同学校的具体法律地位也可能不同。
+德国有一些学校原本属于 Fachhochschule（FH），后来随着学校的发展和定位调整，更名为：
 
-因此，不能简单使用：
+- Hochschule für Angewandte Wissenschaften（HAW）
+- Technische Hochschule（TH）
 
-TU = Universität
+Hochschulkompass 也明确提到，近年来有一些 Fachhochschule 改名为 HAW 或 Technische Hochschule。这些改名通常与学校的专业定位和组织结构调整有关。
 
-TH = Fachhochschule
+### TH 和 TU 有什么区别？
 
-这样的规则。
+这两个名字虽然都带有“Technische”，但含义不能简单画等号。
 
-判断一所学校的具体高校类型，应该查看该校当前的官方信息。
+**TU = Technische Universität**
+
+通常属于 Universität 类型，整体上更加偏向科学研究、理论教育和技术、工程、自然科学等领域。
+
+
+而 **TH = Technische Hochschule** 则可能是一些应用型高校采用的学校名称。
+
+例如，一些原来的 Fachhochschule 在发展过程中改名为 Technische Hochschule，以突出自己的技术和工程方向。
+
+因此，判断一所 TH 到底属于哪种高校体系，不能只看名字，而应该查看：
+
+- 学校官方网站
+- Hochschulkompass
+- 学校所在州的相关信息
+- 学校的具体法律和组织定位
+
+### 简单记忆
+
+可以先这样理解：
+
+**TU：名字里明确是 Technische Universität，属于 Universität 类型。**
+
+**TH：只是 Technische Hochschule 这个学校名称，不能仅凭名称判断它与 Universität 或 HAW/FH 的关系。**
+
+所以如果你以后看到一所叫 **Technische Hochschule XXX** 的学校，不要马上把它和 TUM、TU Berlin 归为同一种学校。
+
+**先查这所学校自己的官方定位。**
+
+这也是为什么 Germany OS 在介绍德国大学时，不建议简单按照学校名字分类，而应该结合德国官方高校类型和具体学校信息来判断。
 
 ## 6. Fachhochschule（FH）和 HAW 是什么？
 
