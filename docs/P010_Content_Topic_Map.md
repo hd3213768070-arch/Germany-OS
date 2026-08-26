@@ -77,7 +77,15 @@ Scope: `database/content/` long-term content planning
 - **未来扩展**：Indexmiete、Staffelmiete、Mieterhöhung、能源合同、家具、退租争议。
 - **边界**：不按城市复制完整租房知识；Anmeldung 的租房前置条件归此，行政规则归 `government`。
 
-## 10. how-to
+## 10. mental-health
+
+- **定位**：心理健康科普、低风险自助支持、德国专业支持路径与心理危机求助入口。
+- **核心主题**：情绪低落、焦虑、压力与考试焦虑、孤独、留学适应、倦怠；常见心理疾病的非诊断性科普；心理咨询、Psychotherapie、Psychologische Beratung、大学咨询、Studentenwerk 与危机支持。
+- **实际问题**：一个人在德国情绪很差该找谁？德国大学有免费心理咨询吗？如何寻找心理治疗师？心理危机时应立即联系哪里？
+- **未来扩展**：城市心理支持资源、不同大学咨询服务入口、语言与文化障碍、等待治疗期间的支持、照护者支持与可靠的官方/专业机构资源库。
+- **边界**：不提供诊断、治疗方案或替代专业医疗建议；疾病、药物、医保和医疗预约的通用规则链接至 `healthcare`；具体大学的咨询入口可在 `university` 学校页面说明并回链本分类；居留、住房或学业等压力来源的实际办理规则仍分别归 `residence`、`housing`、`education` / `university`；`how-to` 仅把相关行动整理为任务清单和跨页入口。
+
+## 11. how-to
 
 - **定位**：跨分类任务入口，而非重复知识库。
 - **核心主题**：来德国、抵达第一周、开始留学、开始工作、找房、搬家、换地址、处理政府信件。
@@ -85,7 +93,7 @@ Scope: `database/content/` long-term content planning
 - **未来扩展**：时间线、Checklist、身份路线图、文件清单、决策树。
 - **边界**：只提供步骤、优先级和链接；完整规则回链至 `government`、`housing`、`education`、`residence`、`work` 等分类。
 
-## 11. pets
+## 12. pets
 
 - **定位**：在德国养宠、带宠入境与携宠出行。
 - **核心主题**：犬猫小动物、登记、Tierarzt、保险、食品、租房养宠、旅行、EU-Heimtierausweis、紧急情况。
@@ -93,7 +101,7 @@ Scope: `database/content/` long-term content planning
 - **未来扩展**：犬种限制、领养、寄养、宠物责任险、动物福利规则。
 - **边界**：租约基本规则归 `housing`；人类医疗归 `healthcare`。
 
-## 12. residence
+## 13. residence
 
 - **定位**：进入、停留、转换与长期定居德国的身份路径。
 - **核心主题**：Visa、Aufenthaltstitel、学生/工作居留、Blue Card、永居、家庭团聚、入籍、延签、居留目的转换。
@@ -101,7 +109,7 @@ Scope: `database/content/` long-term content planning
 - **未来扩展**：求职、自雇、科研居留，离境与重新入境，长期离境风险。
 - **边界**：居留法律归此；税号和 Bürgeramt 归 `government`；学校申请归 `education`。
 
-## 13. shopping
+## 14. shopping
 
 - **定位**：消费、退换货、包裹和二手交易。
 - **核心主题**：超市、Drogerie、家居、电器、线上购物、退货、Garantie、Gewährleistung、DHL/Hermes/DPD、二手交易。
@@ -109,7 +117,7 @@ Scope: `database/content/` long-term content planning
 - **未来扩展**：折扣季、家具、优惠券、二手防骗、回收退瓶。
 - **边界**：Pfand 的生活规则可在 `daily-life` 概览，购买与退瓶操作归此；支付归 `banking`。
 
-## 14. transport
+## 15. transport
 
 - **定位**：公共交通、铁路、驾照、汽车和自行车。
 - **核心主题**：Deutschlandticket、DB、ICE/IC、地方交通、驾照、考试、换驾照、汽车、TÜV、车险、停车、自行车。
@@ -117,7 +125,7 @@ Scope: `database/content/` long-term content planning
 - **未来扩展**：Carsharing、租车、罚单、事故、冬季驾驶、罢工、跨境交通。
 - **边界**：车辆使用中的保险归此；支付归 `banking`，车辆行政登记归 `government`。
 
-## 15. university
+## 16. university
 
 - **定位**：德国大学通用运行规则、大学目录与具体大学在校知识。
 - **核心主题**：大学体系、Universität、TU、Hochschule/HAW、目录、Semester、Module、ECTS、Klausur、Hausarbeit、Seminar、Bachelor、Master、学业管理、大学系统。
@@ -142,7 +150,7 @@ Scope: `database/content/` long-term content planning
 | University of Stuttgart | C@MPUS、课程、考试、工程专业、学生服务。 |
 | KIT | Campus 系统、工程学习、考试、学生服务、科研与就业资源。 |
 
-## 16. work
+## 17. work
 
 - **定位**：找工作、理解雇佣关系与处理职场权利义务。
 - **核心主题**：Vollzeit、Teilzeit、Werkstudent、Minijob、Studentenjob、Praktikum、Arbeitsvertrag、工资、税、社保、Urlaub、Krankheit、Kündigung、Bewerbung、CV、Arbeitszeugnis。
@@ -164,18 +172,22 @@ Scope: `database/content/` long-term content planning
 
 `how-to` 只组织行动步骤、清单与跨页链接，不复制其他分类的完整正文。
 
+### mental-health and related categories
+
+`mental-health` 处理心理健康科普、支持与求助路径，且必须避免将信息写成自我诊断或治疗建议。`healthcare` 处理医保、医生、药物、预约与一般医疗系统；`university` 可记录某校咨询中心的本地入口，但德国大学通用心理支持体系归 `mental-health`；`residence` 只处理居留规则与行政压力源本身；`how-to` 可组织“需要帮助时下一步做什么”的清单，但不复制专业支持说明。
+
 ## Current Content Gaps
 
-优先缺口包括：APS、学历认可、大学通用学习规则、主要城市档案、找房平台、租房 Bewerbung、Nachmieter、房屋交接、租房诈骗、Abmeldung、政府信件、居留转换、求职材料、工资单、银行操作与安全、专科预约、汽车/TÜV、数字工具。
+优先缺口包括：APS、学历认可、大学通用学习规则、主要城市档案、找房平台、租房 Bewerbung、Nachmieter、房屋交接、租房诈骗、Abmeldung、政府信件、居留转换、求职材料、工资单、银行操作与安全、专科预约、心理支持路径、汽车/TÜV、数字工具。
 
 ## Structure Review
 
 ### Confirmed
 
-- 现有 16 个一级分类已覆盖留学、生活、居留、工作与日常消费的核心用户路径。
+- 现有 17 个一级分类已覆盖留学、生活、居留、工作、心理健康与日常消费的核心用户路径。
 - `education` / `university`、`cities` / `housing`、`government` / `residence`、`work` / `education` 的职责边界可以清晰执行。
 - `how-to` 以任务入口和链接层存在，可避免正文重复。
-- 100 个核心选题覆盖全部 16 个一级分类。
+- 原有 100 个核心选题覆盖此前 16 个一级分类；心理健康以 101–112 附加选题纳入规划。
 
 ### Potential Issues
 
@@ -183,6 +195,7 @@ Scope: `database/content/` long-term content planning
 - `government` 与 `housing` 都会涉及 Anmeldung；`government` 与 `work` 都会涉及税与社保。
 - 现有 `how-to` 文件如果扩写为完整说明，可能与主体分类重复。
 - 100 题中“城市档案”仍处于单题层级，未来需为每个城市按统一维度展开，但不应复制住房正文。
+- 心理健康主题涉及医疗和危机支持，正文发布前需优先核验德国官方、大学与专业机构信息，并维护更新时间。
 
 ### Recommended Future Improvements
 
