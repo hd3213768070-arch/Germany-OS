@@ -1,6 +1,6 @@
 # 德国大学学术术语与学分｜Academic Terms and Credits
 
-刚开始在德国大学学习时，最容易遇到的问题之一不是课程本身，而是各种德语术语。
+刚开始在德国大学学习时，最容易遇到的问题之一不是课程本身，而是各种德语学术术语。
 
 例如：
 
@@ -8,13 +8,14 @@
 - 6 ECTS 是不是代表上 6 个小时的课？
 - Modul 和课程（Kurs）有什么区别？
 - SWS 是什么？
-- Prüfungsleistung 和 Prüfung 有什么区别？
+- Prüfung、Prüfungsleistung、Studienleistung 有什么区别？
 - 德国大学的成绩怎么算？
 - 30 ECTS、180 ECTS、120 ECTS 分别代表什么？
+- Prüfungsordnung 和 Modulhandbuch 又有什么区别？
 
-本页面整理德国大学学习过程中最常见的学术术语，帮助学生快速理解大学课程、学分、考试和成绩体系。
+本页面整理德国大学学习过程中最常见的学术术语，帮助学生快速理解大学课程、学分、考试、成绩以及专业文件。
 
-> **注意：** 德国大学在课程名称、考试形式、学分计算和学术管理方面可能存在校际、专业甚至课程层面的差异。具体要求应以所在大学的 Prüfungsordnung、Studienordnung、Modulhandbuch 以及学校官方信息为准。
+> **注意：** 德国大学在课程名称、考试形式、学分计算和学术管理方面可能存在校际、专业甚至课程层面的差异。具体要求应以所在大学及专业的 Prüfungsordnung、Studienordnung、Modulhandbuch 等正式文件为准。
 
 ---
 
@@ -22,48 +23,49 @@
 
 **ECTS = European Credit Transfer and Accumulation System**
 
-中文：**欧洲学分转换与累积系统**
+中文: **欧洲学分转换与累积系统**
 
-德国大学普遍使用 ECTS 来表示学生完成学习所获得的学分。ECTS 不只是计算“上了多少课”，而是用于衡量完成某项学习活动所需要的**整体学习工作量（Workload）**。
+德国大学普遍使用 ECTS 来表示学生完成学习后获得的学分。ECTS 不只是计算“上了多少课”，而是用于衡量完成某项学习活动所需要的**整体学习工作量（Workload）**。
 
 Workload 通常包括：
 
 - 上课
-- 阅读材料
+- 阅读教材和资料
 - 完成作业
+- 自主学习
 - 准备考试
 - 参加考试
-- 论文/报告
-- 小组项目
-- 自主学习
+- 写论文
+- 完成项目
+- 小组工作
 
-因此： **ECTS ≠ 上课小时数** 例如一个课程可能是 5 ECTS，但这并不意味着学生只需要学习 5 个小时。
+👉**ECTS ≠ 上课小时数**, 一门课程可能是 5 ECTS，但这并不意味着学生只需要学习 5 个小时。
 
 ---
 
 # 二、一个 ECTS 代表多少学习量？
 
-欧洲 ECTS 体系通常按照学生完成学习任务所需要的总工作量计算。
-
-一般情况下：**1 ECTS ≈ 25–30 小时 Workload**
+ECTS 通常按照学生完成学习任务所需要的总工作量计算。欧洲高等教育体系通常按照 **1 ECTS ≈ 25–30 小时 Workload** 进行规划。
 
 因此：
 
-- 5 ECTS ≈ 125–150 小时
-- 6 ECTS ≈ 150–180 小时
-- 10 ECTS ≈ 250–300 小时
+| ECTS | 大约对应的总学习工作量 |
+|---:|---:|
+| 1 ECTS | 25–30 小时 |
+| 3 ECTS | 75–90 小时 |
+| 5 ECTS | 125–150 小时 |
+| 6 ECTS | 150–180 小时 |
+| 10 ECTS | 250–300 小时 |
 
-这里计算的是**总学习工作量**，而不是单纯的课堂时间。不同大学、专业和课程可能存在具体规定，因此实际课程应以学校的 Modulbeschreibung / Modulhandbuch 为准。
+这里计算的是**总学习工作量**，而不是单纯的课堂时间。具体大学可能采用不同的课程设计方式，因此实际课程应以所在大学的 Modulbeschreibung / Modulhandbuch 为准。
 
 ---
 
 # 三、30 ECTS 是什么意思？
 
-德国大学通常按照每学期大约 **30 ECTS** 的标准学习量进行设计。
+德国大学通常按照每学期大约 **30 ECTS** 的学习量进行课程设计。因此常见情况是：
 
-因此常见情况是：
-
-| 学习阶段 | 常见 ECTS |
+| 学习时间 | 常见 ECTS |
 |---|---:|
 | 1 个学期 | 约 30 ECTS |
 | 2 个学期 | 约 60 ECTS |
@@ -71,28 +73,28 @@ Workload 通常包括：
 | 4 个学期 | 约 120 ECTS |
 | 6 个学期 | 约 180 ECTS |
 
-**Bachelor：通常 180–240 ECTS**
+德国 Bachelor 常见为：**180–240 ECTS**
 
-**Master：通常 60–120 ECTS**
+Master 常见为：**60–120 ECTS**
 
-具体学位所需 ECTS 取决于具体大学和专业。
+但具体学位所需 ECTS 取决于大学和专业。
 
+---
 
 # 四、Leistungspunkte（LP）是什么？
 
-中文：**学分 / 学习成果点** ; 德国大学也经常使用：**Credit Points（CP）** 来表示学分。
+**Leistungspunkte（LP）** 中文：**学分 / 学习成果点**
 
-在采用 ECTS 的大学中，LP / CP 通常与 ECTS 学分对应。
+德国大学也经常使用 **Credit Points（CP）** 来表示学分。在采用 ECTS 的大学中，LP / CP 通常与 ECTS 学分对应。
 
-例如：Modul: 6 ECTS / 6 LP. 即: 完成这个模块后获得 6 个学分。
+例如：Modul: 6 ECTS / 6 LP 👉 完成这个模块后获得 6 个学分
 
 不同大学可能使用不同缩写，因此看到：
 - ECTS
 - ECTS-Punkte
 - LP
 - CP
-- Leistungspunkte
-时，需要结合所在大学的具体定义理解。
+- Leistungspunkte 时，需要结合所在大学的具体定义理解。
 
 ---
 
@@ -100,24 +102,23 @@ Workload 通常包括：
 
 **Modul = 模块**
 
-德国大学的课程体系经常不是简单按照一门课 = 一个独立课程单位”进行管理，而是按照 **Modul** 进行组织。一个 Modul 可以包含：
-
+德国大学的课程体系经常不是简单按照“一门课 = 一个独立课程单位”进行管理，而是按照 **Modul** 进行组织。一个 Modul 可以包含：
 - Vorlesung（讲座/大课）
 - Übung（习题课）
 - Seminar（研讨课）
 - Praktikum（实践/实验）
 - 其他教学活动
 
-例如：
+例如：**Modul: Mikroökonomie**
 
-```text
-Modul: Mikroökonomie
-│
-├── Vorlesung
-├── Übung
-└── Prüfung
-│
-└── 6 ECTS
+- Vorlesung
+- Übung
+- Prüfung
+- 6 ECTS
+
+完成整个 Modul 的要求后，学生通常才能获得该模块对应的 ECTS。具体结构取决于大学和专业。
+
+---
 
 # 六、Modul 和课程（Kurs）有什么区别？
 
@@ -129,19 +130,14 @@ Modul: Mikroökonomie
 
 **Kurs / Veranstaltung 更接近具体的一门课或教学活动。**
 
-一个 Modul 可能包含一个或多个课程/教学活动。
+一个 Modul 可能包含一个或多个课程/教学活动。例如：
 
-例如：
+**Modul: Mikroökonomie**
 
-Modul: Mikroökonomie
-├── Vorlesung
-├── Übung
-└── Klausur
-└── 6 ECTS
-
-因此不能简单认为：
-
-> 一个 Modul = 一门课
+- Vorlesung
+- Übung
+- Klausur
+- 6 ECTS
 
 有些大学的一个 Modul 可能只有一门教学活动，有些 Modul 则可能由多个课程组成。
 
@@ -151,7 +147,7 @@ Modul: Mikroökonomie
 
 **Semester = 学期**
 
-德国大学通常分为两个主要学期：## Wintersemester（WiSe / WS）👉 **冬季学期** 通常从秋季开始，到次年春季结束。以及 ## Sommersemester（SoSe / SS）👉**夏季学期**通常从春季开始，到夏季结束。
+德国大学通常分为两个主要学期：## Wintersemester（WiSe / WS）通常从秋季开始，到次年春季结束。## Sommersemester（SoSe / SS）通常从春季开始，到夏季结束。
 
 不同大学的具体学期日期可能不同。
 
@@ -159,9 +155,9 @@ Modul: Mikroökonomie
 
 # 八、Vorlesung 是什么？
 
-**Vorlesung = 讲座课 / 大课** 通常由教授或教师进行集中授课。
+**Vorlesung = 讲座课 / 大课**
 
-Vorlesung 本身不一定就是最终考试。一门课程是否需要考试、考试形式以及是否获得 ECTS，需要查看对应 Modul 的具体要求。
+通常由教授或教师进行集中授课。Vorlesung 本身不一定就是最终考试。 一门课程是否需要考试、考试形式以及是否获得 ECTS，需要查看对应 Modul 的具体要求。
 
 ---
 
@@ -181,32 +177,33 @@ Vorlesung 本身不一定就是最终考试。一门课程是否需要考试、�
 - 完成作业
 - 提交练习
 - 参加测试
-- 达到一定完成率 👉 具体要求由课程规定决定。
+- 达到一定完成率
+
+具体要求由课程规定决定。
 
 ---
 
 # 十、Seminar 是什么？
 
-**Seminar = 研讨课** 这通常比 Vorlesung 更强调学生参与。
+**Seminar = 研讨课** 通常比 Vorlesung 更强调学生参与。
 
 可能包括：
 
 - 阅读论文
 - 文献讨论
-- 独立写论文
-- 学生展示/Präsentation/Referat
+- 写论文
+- 学生展示/Referat/Präsentation
 - 小组讨论
 - 写 Hausarbeit
 - 小组项目
-
 
 ---
 
 # 十一、Praktikum 是什么？
 
-**Praktikum = 实践课 / 实验课** (具体形式根据专业不同而不同)
+**Praktikum = 实践课 / 实验课**
 
-例如：
+具体形式根据专业不同而不同。例如：
 
 - 化学实验
 - 物理实验
@@ -215,12 +212,12 @@ Vorlesung 本身不一定就是最终考试。一门课程是否需要考试、�
 - 医学实践
 - 专业实践
 
-需要特别注意：**Praktikum 在不同语境下也可能指企业实习。**
-
-因此看到 Praktikum 时，要结合具体专业和语境判断它是：
+需要特别注意：**Praktikum 在不同语境下也可能指企业实习。** 因此看到 Praktikum 时，要结合具体专业和语境判断它是：
 
 1. 大学课程中的实践/实验
 2. 企业中的专业实习
+
+不能看到 Praktikum 就默认是企业实习。
 
 ---
 
@@ -228,33 +225,31 @@ Vorlesung 本身不一定就是最终考试。一门课程是否需要考试、�
 
 **SWS = Semesterwochenstunden**
 
-中文：**每周学时** SWS 主要表示一门课程在一个学期中，每周安排多少个教学小时。
+中文: **每周学时**
 
-例如：
+SWS 主要表示一门课程在一个学期中，每周安排多少个教学小时。例如：
 
-> 2 SWS: 这门课每周安排约 2 个教学小时。
+ 2 SWS 👉 这门课每周安排约 2 个教学小时。
 
-但：❌ **SWS ≠ ECTS** 两者表示的是完全不同的概念。
+注意⚠️: **SWS ≠ ECTS**
 
-### SWS 👉 每周课堂教学时间
+### SWS
 
-### ECTS 👉 完成整个学习活动所需要的总学习工作量
+主要描述：每周课堂教学时间
 
-因此：**2 SWS 的课程完全可能是 5 ECTS。**
+### ECTS
 
-因为学生除了课堂时间之外，还需要：
+主要描述：完成整个学习活动所需要的总学习工作量
 
-- 复习
-- 阅读
-- 做作业
-- 准备考试
-- 完成其他学习任务
+
 
 ---
 
 # 十三、Prüfung 是什么？
 
-**Prüfung = 考试 / 考核** 大学中的 Prüfung 可以有很多形式。
+**Prüfung = 考试 / 考核**
+
+大学中的 Prüfung 可以有很多形式。
 
 例如：
 
@@ -266,17 +261,27 @@ Vorlesung 本身不一定就是最终考试。一门课程是否需要考试、�
 - Projekt
 - Praktische Prüfung
 
-因此：Prüfung ≠ 不一定意味着传统意义上的笔试。
+因此看到：
+
+> Prüfung
+
+不一定意味着传统意义上的笔试。
 
 ---
 
 # 十四、Klausur 是什么？
 
-**Klausur = 笔试** 通常是在规定时间内完成的书面考试。
+**Klausur = 笔试**
 
-例如：Klausur – 90 Minuten
+通常是在规定时间内完成的书面考试。
 
-表示：笔试时间为 90 分钟。
+例如：
+
+> Klausur – 90 Minuten
+
+表示：
+
+> 笔试时间为 90 分钟。
 
 Klausur 的具体形式可能包括：
 
@@ -293,7 +298,9 @@ Klausur 的具体形式可能包括：
 
 # 十五、Mündliche Prüfung 是什么？
 
-**Mündliche Prüfung = 口试** 通常由教师通过提问的方式进行考核。
+**Mündliche Prüfung = 口试**
+
+通常由教师通过提问的方式进行考核。
 
 可能包括：
 
@@ -308,7 +315,9 @@ Klausur 的具体形式可能包括：
 
 # 十六、Hausarbeit 是什么？
 
-**Hausarbeit = 学术论文 / 课程论文** 通常需要学生围绕一个学术主题进行较完整的书面研究。
+**Hausarbeit = 学术论文 / 课程论文**
+
+通常需要学生围绕一个学术主题进行较完整的书面研究。
 
 一般可能包括：
 
@@ -397,7 +406,7 @@ Hausarbeit 和普通作业不同。
 
 不能简单理解成：
 
-> Studienleistung = 不重要
+> Studienleistung = 不重要  
 > Prüfungsleistung = 重要
 
 真正需要关注的是：
@@ -611,7 +620,7 @@ Hausarbeit 和普通作业不同。
 
 # 二十六、Studienverlaufsplan 是什么？
 
-**Studienverlaufsplan = 学习进度/课程规划**
+**Studienverlaufsplan = 学习进度 / 课程规划**
 
 它通常用于展示：
 
@@ -619,14 +628,16 @@ Hausarbeit 和普通作业不同。
 
 例如：
 
-1. Semester
+**1. Semester**
+
 - Modul A – 6 ECTS
 - Modul B – 6 ECTS
 - Modul C – 6 ECTS
 - Modul D – 6 ECTS
 - Modul E – 6 ECTS
 
-2. Semester
+**2. Semester**
+
 - Modul F – 6 ECTS
 - Modul G – 6 ECTS
 - Modul H – 6 ECTS
@@ -676,23 +687,14 @@ Hausarbeit 和普通作业不同。
 
 例如：
 
-Modul: Data Science
+**Modul: Data Science**
 
-ECTS: 6
-
-SWS: 4
-
-Lehrveranstaltung:
-Vorlesung + Übung
-
-Learning Outcomes:
-...
-
-Prüfungsleistung:
-Klausur
-
-Workload:
-180 Stunden
+- ECTS: 6
+- SWS: 4
+- Lehrveranstaltung: Vorlesung + Übung
+- Learning Outcomes: ...
+- Prüfungsleistung: Klausur
+- Workload: 180 Stunden
 
 这样就可以快速了解一个模块的基本情况。
 
@@ -752,16 +754,17 @@ Workload:
 
 例如你看到：
 
-Modul: Mikroökonomie
+**Modul: Mikroökonomie**
 
-6 ECTS
-2 SWS
+**6 ECTS**
 
-Vorlesung + Übung
+**2 SWS**
 
-Prüfungsleistung:
-Klausur
-90 Minuten
+**Vorlesung + Übung**
+
+**Prüfungsleistung: Klausur**
+
+**90 Minuten**
 
 可以理解为：
 
@@ -849,20 +852,20 @@ Klausur
 
 可以简单记成：
 
-Prüfungsordnung
-↓
+**Prüfungsordnung**  
+↓  
 考试规则
 
-Studienordnung
-↓
+**Studienordnung**  
+↓  
 专业学习结构
 
-Studienverlaufsplan
-↓
+**Studienverlaufsplan**  
+↓  
 推荐学习路线
 
-Modulhandbuch
-↓
+**Modulhandbuch**  
+↓  
 具体模块和课程信息
 
 ---
@@ -893,4 +896,185 @@ Modulhandbuch
 | Prüfungsleistung | 正式考试/考核成果 |
 | Note | 成绩 |
 | Notendurchschnitt | 平均成绩 |
-|
+| Prüfungsordnung | 考试规定 |
+| Studienordnung | 学习规定 |
+| Studienverlaufsplan | 推荐学习进度/课程规划 |
+| Modulhandbuch | 模块手册 |
+
+---
+
+# 三十二、最实用的理解方法
+
+刚进入德国大学时，不需要一次记住所有德语术语。
+
+首先记住这些核心概念：
+
+**ECTS**  
+→ 学分 / 总体学习工作量
+
+**Workload**  
+→ 完成课程需要投入的总时间
+
+**Modul**  
+→ 学习模块
+
+**SWS**  
+→ 每周课堂学时
+
+**Vorlesung**  
+→ 大课
+
+**Übung**  
+→ 习题课
+
+**Seminar**  
+→ 研讨课
+
+**Praktikum**  
+→ 实践/实验，也可能指企业实习
+
+**Prüfung**  
+→ 考核
+
+**Klausur**  
+→ 笔试
+
+**Note**  
+→ 成绩
+
+**Prüfungsordnung**  
+→ 考试规则
+
+**Studienverlaufsplan**  
+→ 学习路线
+
+**Modulhandbuch**  
+→ 模块和课程说明
+
+理解这些之后，德国大学的：
+
+- 课程表
+- 选课系统
+- 考试信息
+- 成绩单
+- 学习计划
+- 专业培养方案
+
+都会容易理解很多。
+
+---
+
+# 三十三、一个德国大学学生应该怎么使用这些信息？
+
+可以按照下面的顺序：
+
+**想了解一个专业**
+
+↓  
+
+**查看 Studienverlaufsplan**
+
+↓  
+
+了解整个专业怎么安排
+
+↓
+
+**查看 Modulhandbuch**
+
+↓
+
+了解具体模块学什么
+
+↓
+
+**查看 ECTS / SWS / Workload**
+
+↓
+
+了解学习量
+
+↓
+
+**查看 Prüfungsleistung**
+
+↓
+
+了解怎么考试
+
+↓
+
+**查看 Prüfungsordnung**
+
+↓
+
+确认正式考试规则
+
+这样比单纯看课程名称更加可靠。
+
+---
+
+# 三十四、核心总结
+
+德国大学中的几个核心概念可以这样理解：
+
+> **ECTS 看“学分和总体学习量”。**
+
+> **SWS 看“每周课堂时间”。**
+
+> **Modul 看“课程模块”。**
+
+> **Prüfung 看“怎么考”。**
+
+> **Note 看“考得怎么样”。**
+
+> **Studienverlaufsplan 看“应该怎么学”。**
+
+> **Modulhandbuch 看“具体学什么”。**
+
+> **Prüfungsordnung 看“考试规则是什么”。**
+
+最重要的一点是：
+
+**不要把德国大学的学分、上课时间、考试和成绩混为一谈。**
+
+尤其是：
+
+> **ECTS ≠ SWS**
+
+> **Modul ≠ 一定等于一门课**
+
+> **Prüfung ≠ 一定是笔试**
+
+> **Studienleistung ≠ 一定不计入成绩**
+
+> **Studienverlaufsplan ≠ 所有人都必须严格按照这个顺序学习**
+
+具体情况始终以所在大学、专业和课程的正式规定为准。
+
+---
+
+## 相关内容
+
+- [德国大学体系](./0001_German_University_System_Overview.md)
+- [德国大学目录](./0002_German_Universities_Directory.md)
+- [德国大学申请](../education/0009_University_Application.md)
+- [国际学生](../education/0011_International_Students.md)
+
+---
+
+## 信息来源与进一步查询
+
+涉及具体大学的学分、考试、课程和毕业要求时，应优先查询：
+
+- 所在大学官方网站
+- Prüfungsordnung
+- Studienordnung
+- Studienverlaufsplan
+- Modulhandbuch
+- Hochschulkompass
+- DAAD
+
+> **信息更新时间：2026年9月**
+>
+> 不同大学、专业和课程可能采用不同的术语、学分计算方式和考试规定。本文用于帮助理解德国大学常见术语，不替代所在大学的正式规定。
