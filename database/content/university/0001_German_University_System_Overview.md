@@ -1,8 +1,6 @@
 # 德国大学到底有哪些？Universität、TU、HAW 和 Hochschule 一次讲清楚
 
-很多刚开始了解德国留学的人，都会遇到一个问题：
-
-德国到底有多少种“大学”？
+很多刚开始了解德国留学的人，都会遇到一个问题：德国到底有多少种“大学”？
 
 你可能会看到：
 
@@ -20,9 +18,7 @@
 
 ## 1. Hochschule 到底是什么？
 
-在德国，Hochschule 可以理解为高等教育机构，也就是高校。它是一个比较大的总称。
-
-德国高校体系中包括不同类型的高等教育机构，例如：
+在德国，Hochschule 可以理解为高等教育机构，也就是高校。它是一个比较大的总称。德国高校体系中包括不同类型的高等教育机构，例如：
 
 - Universität 及与其同等的高校
 - Fachhochschule / Hochschule für Angewandte Wissenschaften（FH / HAW）
@@ -35,9 +31,7 @@
 
 ## 2. Universität 是什么？
 
-Universität 通常就是我们中文里所说的综合性大学，也是德国高校体系中的一种具体类型。它的一个重要特点是：科研和理论教育占有非常重要的位置。
-
-传统 Universität 往往具有比较广泛的学科范围。例如一所综合性大学可能同时有：
+Universität 通常就是我们中文里所说的综合性大学，也是德国高校体系中的一种具体类型。它的一个重要特点是：科研和理论教育占有非常重要的位置。传统 Universität 往往具有比较广泛的学科范围。例如一所综合性大学可能同时有：
 
 - 经济学
 - 法学
@@ -55,15 +49,11 @@ Universität 通常就是我们中文里所说的综合性大学，也是德国�
 
 ## 3. Universität 不一定真的叫“Universität”
 
-这是很多中国学生第一次看德国大学名单时最容易搞混的地方。一所大学属于 Universität 类型，名字里不一定必须出现 Universität。
+这是很多中国学生第一次看德国大学名单时最容易搞混的地方。一所大学属于 Universität 类型，名字里不一定必须出现 Universität。例如：Technische Universität München（TUM）
 
-例如：Technische Universität München（TUM）
+虽然名字里有 Technische，但它仍然属于 Universität 这一类高校。
 
-虽然名字里有 Technische Universität，但它仍然属于 Universität 这一类高校。
-
-再比如：RWTH Aachen (Rheinisch-Westfälische Technische Hochschule Aachen)
-
-名字里甚至没有直接写 Universität，但它属于德国大学体系中以研究和工程技术为重点的高校。
+再比如：RWTH Aachen (Rheinisch-Westfälische Technische Hochschule Aachen). 名字里甚至没有直接写 Universität，但它属于德国大学体系中以研究和工程技术为重点的高校。
 
 因此, 真正选择学校的时候，应该查看学校的官方定位、Hochschulkompass 信息以及具体专业。
 
@@ -88,9 +78,7 @@ TU 本质上仍然属于 Universität 类型，只是学校的专业结构和研
 - 建筑
 - 技术相关领域
 
-不过现在很多 TU 的专业已经非常广泛，也并不是“只能学工科”。
-
-例如一所 TU 也可能开设：
+不过现在很多 TU 的专业已经非常广泛，也并不是“只能学工科”。例如一所 TU 也可能开设：
 
 - 经济学
 - 管理
@@ -99,9 +87,7 @@ TU 本质上仍然属于 Universität 类型，只是学校的专业结构和研
 - 政治
 - 人文相关专业
 
-所以：TU ≠ 只能学工程。
-
-更准确的理解是：TU 是以技术、工程和自然科学研究见长的 Universität。
+所以：TU ≠ 只能学工程。更准确的理解是：TU 是以技术、工程和自然科学研究见长的 Universität。
 
 ## 5. Technische Hochschule（TH）到底是什么？
 
