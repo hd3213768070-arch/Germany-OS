@@ -222,31 +222,12 @@ Verwendungszweck: Miete September 2026
 
 # 15. Verwendungszweck 是什么？
 
-`Verwendungszweck`
+就是 **转账用途 / 付款备注。**
 
-就是：
+例如：Miete September 2026 意思就是 2026 年 9 月房租
 
-> **转账用途 / 付款备注。**
 
-例如：
-
-`Miete September 2026`
-
-意思就是：
-
-> 2026 年 9 月房租
-
-又例如：
-
-`Rechnungsnummer 123456`
-
-表示：
-
-> 发票编号 123456
-
-很多德国账单都会要求你在转账时填写特定的 Verwendungszweck。
-
-尤其是：
+很多德国账单都会要求你在转账时填写特定的 Verwendungszweck。尤其是：
 
 - 房租
 - 学费
@@ -260,23 +241,11 @@ Verwendungszweck: Miete September 2026
 
 # 16. SEPA 是什么？
 
-`SEPA`
+SEPA 全称：Single Euro Payments Area
 
-全称：
+中文通常叫 **单一欧元支付区。**
 
-`Single Euro Payments Area`
-
-中文通常叫：
-
-> **单一欧元支付区。**
-
-SEPA 的目标是让参与地区之间的欧元支付更加统一。
-
-因此德国账户和其他 SEPA 国家账户之间，可以使用统一的支付体系进行欧元转账和扣款。
-
-SEPA 不只是“转账”。
-
-它还包括：
+SEPA 的目标是让参与地区之间的欧元支付更加统一。因此德国账户和其他 SEPA 国家账户之间，可以使用统一的支付体系进行欧元转账和扣款。SEPA 不只是“转账”。它还包括：
 
 - SEPA Credit Transfer
 - SEPA Direct Debit
@@ -290,53 +259,25 @@ SEPA 不只是“转账”。
 
 # 17. SEPA-Überweisung 是什么？
 
-`SEPA-Überweisung`
+就是 **SEPA 区域内的欧元银行转账。** 例如你在德国有一个银行账户。你需要给另一个 SEPA 国家账户转欧元。通常就可以通过 SEPA 转账体系完成。
 
-就是：
+👉 所以 SEPA 是支付体系
 
-> **SEPA 区域内的欧元银行转账。**
-
-例如：
-
-你在德国有一个银行账户。
-
-你需要给另一个 SEPA 国家账户转欧元。
-
-通常就可以通过 SEPA 转账体系完成。
-
-所以：
-
-> SEPA 是支付体系
-
-而：
-
-> Überweisung 是具体的转账方式。
+👍🏼 而 Überweisung 是具体的转账方式。
 
 ---
 
 # 18. Lastschrift 是什么？
 
-`Lastschrift`
-
-可以理解成：
-
-> **授权别人从你的银行账户自动扣钱。**
-
-它和 Überweisung 的逻辑正好相反。
+Lastschrift 可以理解成 **授权别人从你的银行账户自动扣钱。** 它和 Überweisung 的逻辑正好相反。
 
 ### Überweisung
 
-你主动：
-
-> 把钱转给对方
+你主动把钱转给对方
 
 ### Lastschrift
 
-你授权对方：
-
-> 从你的账户扣钱
-
-例如：
+你授权对方从你的账户扣钱. 例如：
 
 - 手机套餐
 - 电费
@@ -350,21 +291,9 @@ SEPA 不只是“转账”。
 
 # 19. SEPA-Lastschrift 是什么？
 
-`SEPA-Lastschrift`
+SEPA-Lastschrift 就是在 SEPA 支付体系下进行的直接扣款。你通常需要先授权 SEPA-Lastschriftmandat, 也就是 **SEPA 直接扣款授权。**
 
-就是在 SEPA 支付体系下进行的直接扣款。
-
-你通常需要先授权：
-
-`SEPA-Lastschriftmandat`
-
-也就是：
-
-> **SEPA 直接扣款授权。**
-
-授权之后，对方可以按照约定从你的账户扣款。
-
-因此：
+授权之后，对方可以按照约定从你的账户扣款。因此：
 
 **Überweisung = 我主动转钱**
 
@@ -376,29 +305,9 @@ SEPA 不只是“转账”。
 
 # 20. Dauerauftrag 是什么？
 
-`Dauerauftrag`
+Dauerauftrag = 定期转账 / 常设转账
 
-= 定期转账 / 常设转账。
-
-它适合：
-
-> **每隔固定时间，把固定金额转给同一个收款人。**
-
-例如：
-
-每月 1 日：
-
-`900 €`
-
-转给：
-
-`房东`
-
-可以设置成：
-
-> monatlicher Dauerauftrag
-
-之后银行按照设定自动执行。
+它适合**每隔固定时间，把固定金额转给同一个收款人。**
 
 常见用途：
 
@@ -415,59 +324,31 @@ SEPA 不只是“转账”。
 
 ### Dauerauftrag
 
-你设置：
-
-> “每个月由我的银行主动转 900 € 给房东。”
+你设置“每个月由我的银行主动转 900 € 给房东。”
 
 ### Lastschrift
 
-你授权：
-
-> “房东可以按照约定从我的账户扣房租。”
-
-简单记：
-
-**Dauerauftrag：我让银行转**
-
-**Lastschrift：我让对方扣**
+你授权 “房东可以按照约定从我的账户扣房租。”
 
 ---
 
 # 22. Echtzeitüberweisung 是什么？
 
-`Echtzeitüberweisung`
+Echtzeitüberweisung 就是 **即时银行转账 / Instant Payment。**
 
-就是：
-
-> **即时银行转账 / Instant Payment。**
-
-与普通转账相比，它的特点是：
-
-> **资金通常可以在很短时间内到账。**
-
-在符合条件的情况下，通常可以在几秒钟内完成。
-
-这对于：
+与普通转账相比，它的特点是**资金通常可以在很短时间内到账。** 在符合条件的情况下，通常可以在几秒钟内完成。这对于：
 
 - 紧急转账
 - 临时付款
 - 需要立即确认收款
 
-非常方便。
-
-但是否收费以及具体条件，需要看银行当前的账户套餐。
+非常方便。但是否收费以及具体条件，需要看银行当前的账户套餐。
 
 ---
 
 # 23. Rechnung 是什么？
 
-`Rechnung`
-
-= 发票 / 账单。
-
-在德国生活中经常会收到：
-
-> `Rechnung`
+Rechnung = 发票 / 账单
 
 里面通常会写：
 
@@ -478,49 +359,21 @@ SEPA 不只是“转账”。
 - Zahlungsempfänger：收款方
 - Verwendungszweck：付款备注
 
-收到 Rechnung 后，不要只看金额。
-
-最好把：
-
-**金额 + IBAN + Verwendungszweck + Zahlungsfrist**
-
-一起确认。
+收到 Rechnung 后，不要只看金额。最好把**金额 + IBAN + Verwendungszweck + Zahlungsfrist** 一起确认。
 
 ---
 
 # 24. Zahlungsfrist 是什么？
 
-`Zahlungsfrist`
+Zahlungsfrist = 付款期限。
 
-= 付款期限。
-
-例如：
-
-> `Zahlungsfrist: 14 Tage`
-
-意思就是：
-
-> 需要在规定期限内完成付款。
-
-德国很多账单并不是：
-
-> “收到就马上付”
-
-而是会给一个明确的付款期限。
-
-因此收到 Rechnung 后，一定要注意：
-
-> **什么时候必须付款。**
+德国很多账单并不是“收到就马上付”, 而是会给一个明确的付款期限。因此收到 Rechnung 后，一定要注意**什么时候必须付款。**
 
 ---
 
 # 25. 为什么转账一定要认真检查 IBAN？
 
-因为银行转账最重要的信息之一就是：
-
-> **IBAN**
-
-输入转账信息时，至少检查：
+因为银行转账最重要的信息之一就是**IBAN** 输入转账信息时，至少检查：
 
 - 收款人
 - IBAN
@@ -528,29 +381,13 @@ SEPA 不只是“转账”。
 - Verwendungszweck
 - 付款日期
 
-尤其是第一次给某个人或公司付款时。
-
-不要因为：
-
-> “名字看起来一样”
-
-就直接确认。
+尤其是第一次给某个人或公司付款时。不要因为“名字看起来一样”就直接确认。
 
 ---
 
 # 26. 转账填错了怎么办？
 
-如果你发现：
-
-> IBAN 填错了
-
-或者：
-
-> 金额填错了
-
-首先不要继续操作。
-
-立即联系银行，说明：
+如果你发现 IBAN 填错了或者金额填错了, ❗️首先不要继续操作。立即联系银行，说明：
 
 - 转账时间
 - 金额
@@ -560,17 +397,13 @@ SEPA 不只是“转账”。
 
 如果转账已经执行，能否追回取决于具体情况。
 
-因此：
-
-> **转账前检查，比转账后追回容易得多。**
+❗️👍🏼 **转账前检查，比转账后追回容易得多。**
 
 ---
 
 # 27. 为什么有时候转账没有马上到账？
 
-普通银行转账不一定像即时转账一样立即完成。
-
-可能受到：
+普通银行转账不一定像即时转账一样立即完成。可能受到：
 
 - 银行处理时间
 - 工作日
@@ -581,11 +414,7 @@ SEPA 不只是“转账”。
 
 等因素影响。
 
-如果你需要非常快地到账，可以在银行支持的情况下选择：
-
-`Echtzeitüberweisung`
-
-但也需要确认收款银行是否支持以及是否产生费用。
+如果你需要非常快地到账，可以在银行支持的情况下选择 Echtzeitüberweisung. 但也需要确认收款银行是否支持以及是否产生费用。
 
 ---
 
@@ -638,33 +467,23 @@ SEPA 不只是“转账”。
 
 ### 去商店买东西
 
-通常：
-
-> Karte / Apple Pay / Bargeld
+Karte / Apple Pay / Bargeld
 
 ### 给朋友转钱
 
-通常：
-
-> Überweisung
+Überweisung
 
 ### 每个月固定转一笔钱
 
-通常：
-
-> Dauerauftrag
+Dauerauftrag
 
 ### 公司每个月自动从账户扣钱
 
-通常：
-
-> Lastschrift
+Lastschrift
 
 ### 急着让对方收到钱
 
-可以考虑：
-
-> Echtzeitüberweisung
+Echtzeitüberweisung
 
 ---
 
@@ -699,116 +518,21 @@ SEPA 不只是“转账”。
 
 # 31. 最后用一个例子把整个系统串起来
 
-假设你在德国租了一套房。
+假设你在德国租了一套房。你的工资：2,500 €. 
 
-你的工资：
+进入Girokonto, 然后你每个月需要支付
+### 房租, 可以使用Überweisung或者根据房东提供的方式使用Lastschrift
 
-`2,500 €`
+### 手机费可能使用Lastschrift
 
-进入：
+### 日常买菜可以使用 Debitkarte 或者 Girocard 也可以使用 Apple Pay
 
-`Girokonto`
+### 偶尔的小店可能需要 Bargeld
 
-然后你每个月需要支付：
+### 每月固定给某人转钱可以设置 Dauerauftrag
 
-### 房租
+### 临时需要马上转账Echtzeitüberweisung
 
-可以使用：
 
-`Überweisung`
 
-或者根据房东提供的方式使用：
 
-`Lastschrift`
-
-### 手机费
-
-可能使用：
-
-`Lastschrift`
-
-### 日常买菜
-
-可以使用：
-
-`Debitkarte`
-
-或者：
-
-`Girocard`
-
-也可以使用：
-
-`Apple Pay`
-
-### 偶尔的小店
-
-可能需要：
-
-`Bargeld`
-
-### 每月固定给某人转钱
-
-可以设置：
-
-`Dauerauftrag`
-
-### 临时需要马上转账
-
-可以考虑：
-
-`Echtzeitüberweisung`
-
-所以整个逻辑其实很简单：
-
-**Girokonto**
-↓
-你的钱从这里进出
-
-**Karte / Bargeld / Mobile Payment**
-↓
-日常消费
-
-**Überweisung**
-↓
-主动给别人转钱
-
-**Lastschrift**
-↓
-授权别人从你账户扣钱
-
-**Dauerauftrag**
-↓
-让银行定期自动转钱
-
-**Echtzeitüberweisung**
-↓
-需要快速到账时使用
-
----
-
-# 32. 一句话总结
-
-德国日常支付最重要的不是记住几十个德语单词，而是先分清楚：
-
-> **刷卡 = Karte**
-
-> **现金 = Bargeld**
-
-> **我主动转钱 = Überweisung**
-
-> **我授权别人扣钱 = Lastschrift**
-
-> **固定时间自动转钱 = Dauerauftrag**
-
-> **快速到账 = Echtzeitüberweisung**
-
-而这些支付方式，最终大多都围绕你的：
-
-**Girokonto**
-
-运行。
-
-下一篇再解决另一个完全不同的问题：
-
-> **SCHUFA 到底是什么？银行为什么会看你的信用？如果银行卡、Online-Banking 或账户被盗了怎么办？**
