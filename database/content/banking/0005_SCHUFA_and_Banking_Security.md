@@ -1,1 +1,0 @@
-# SCHUFA and Banking Security
