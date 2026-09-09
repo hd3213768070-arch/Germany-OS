@@ -1,1 +1,0 @@
-# SEPA and Payments
