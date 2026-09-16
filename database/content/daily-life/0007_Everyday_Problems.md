@@ -125,9 +125,7 @@
 
 “钥匙在屋里”和“钥匙丢了”是两个问题。
 
-如果钥匙真的找不到了，除了重新拿到钥匙，还需要考虑：
-
-> **这把钥匙会不会让别人进入你的房子？**
+如果钥匙真的找不到了，除了重新拿到钥匙，还需要考虑**这把钥匙会不会让别人进入你的房子？**
 
 尤其是钥匙上带有：
 
@@ -136,9 +134,7 @@
 - 房号
 - 小区信息
 
-风险会更高。
-
-如果是租房钥匙，可以尽快告诉：
+风险会更高。如果是租房钥匙，可以尽快告诉：
 
 - Vermieter
 - Hausverwaltung
@@ -149,9 +145,7 @@
 
 # 七、Generalschlüssel 和 Schließanlage
 
-有些住宅、公司、学校使用统一的锁闭系统：
-
-`Schließanlage`
+有些住宅、公司、学校使用统一的锁闭系统 Schließanlage
 
 一把钥匙可能可以打开：
 
@@ -160,15 +154,11 @@
 - 地下室
 - 其他公共区域
 
-如果是：
+如果是 Generalschlüssel
 
-`Generalschlüssel`
+情况就更特殊❗️
 
-情况就更特殊。
-
-这种钥匙丢失后，可能涉及更大的安全风险和更高的更换成本。具体费用不能简单说成“丢钥匙就赔一整栋楼”，要看具体锁闭系统和实际损失。
-
-所以如果丢的是这类钥匙，最好尽快通知负责的人。
+这种钥匙丢失后，可能涉及更大的安全风险和更高的更换成本。具体费用不能简单说成“丢钥匙就赔一整栋楼”，要看具体锁闭系统和实际损失。所以如果丢的是这类钥匙，最好尽快通知负责的人。
 
 ---
 
@@ -185,9 +175,7 @@
 - 衣服
 - 证件
 
-先回忆最后一次看到它的地方。
-
-如果是在：
+先回忆最后一次看到它的地方。如果是在：
 
 - 商店
 - 餐厅
@@ -197,43 +185,27 @@
 
 可以先问该地点自己的失物招领处。
 
-如果是在公共场所丢失，则可以联系当地 `Fundbüro`。
-
-德国联邦行政服务平台也提供 `Fundsachen melden` 的相关入口。citeturn0search6
+如果是在公共场所丢失，则可以联系当地 Fundbüro。德国联邦行政服务平台也提供 Fundsachen melden 的相关入口。
 
 ---
 
-# 九、在慕尼黑丢东西，要看在哪里丢的
+# 九、要看在哪里丢的
 
-慕尼黑有一个很容易搞错的地方：
-
-> **不是所有失物都归同一个 Fundbüro。**
+例如: 慕尼黑
 
 ### 在普通城市区域丢失
 
-可以向：
+可以向 Fundbüro der Landeshauptstadt München 报告。慕尼黑市目前可以在线提交 Verlustmeldung。
 
-`Fundbüro der Landeshauptstadt München`
-
-报告。
-
-慕尼黑市目前可以在线提交 `Verlustmeldung`。
-
-官方提醒，失物被交到 Fundbüro 可能需要几天。通常需要约 `3–5个工作日`，有些物品则可能更久。citeturn0search4
+⭕️ 官方提醒，失物被交到 Fundbüro 可能需要几天。通常需要约 3–5个工作日，有些物品则可能更久。
 
 ### 在 U-Bahn、Bus、Tram 等公共交通上丢失
 
-联系：
-
-`MVG Fundbüro`
+联系 MVG Fundbüro
 
 ### 在 S-Bahn、火车或者火车站区域丢失
 
-联系：
-
-`DB Fundbüro`
-
-慕尼黑市官方明确区分了这几种情况。citeturn0search4
+联系 DB Fundbüro
 
 ---
 
@@ -241,11 +213,7 @@
 
 东西被捡到以后，不一定马上出现在 Fundbüro 系统里。
 
-例如：
-
-上午在地铁上丢了手机。
-
-可能是：
+程序是：
 
 > 被乘客捡到  
 > ↓  
@@ -259,46 +227,28 @@
 
 所以当天查不到，并不一定代表已经找不到了。
 
-慕尼黑市官方也明确提醒，失物进入 Fundbüro 可能需要几天，部分物品甚至会更久。citeturn0search4
-
 ---
 
 # 十一、钥匙丢了，Fundbüro 能不能找？
 
 可以。
 
-慕尼黑市 Fundbüro 对钥匙有专门的处理方式。
+例如慕尼黑钥匙可以直接到 Implerstraße 11 的 Fundbüro 查看，不需要预约。
 
-目前慕尼黑：
-
-> 钥匙可以直接到 Implerstraße 11 的 Fundbüro 查看，不需要预约。
-
-如果找到疑似自己的钥匙，需要带：
-
-> `Vergleichsschlüssel` 或 `Zweitschlüssel`
-
-用来证明和核对钥匙。citeturn0search3turn0search4
+如果找到疑似自己的钥匙，需要带 Vergleichsschlüssel 或 Zweitschlüssel 用来证明和核对钥匙。
 
 ---
 
 # 十二、银行卡丢了
 
-银行卡和普通失物不一样。
-
-发现银行卡不见以后，先处理银行卡安全：
+银行卡和普通失物不一样。发现银行卡不见以后，先处理银行卡安全：
 
 1. 锁卡
 2. 检查最近的账户交易
 3. 联系银行
 4. 根据银行要求申请新卡
 
-如果已经发现：
-
-> 有自己没有进行的交易
-
-要尽快联系银行。
-
-不要为了等钱包自己回来，而把银行卡继续放在那里不管。
+如果已经发现有自己没有进行的交易❗️要尽快联系银行。不要为了等钱包自己回来，而把银行卡继续放在那里不管。
 
 ---
 
@@ -335,9 +285,7 @@
 
 # 十四、证件丢了
 
-不同证件的处理方式不一样。
-
-例如：
+不同证件的处理方式不一样。例如：
 
 - Personalausweis
 - Reisepass
@@ -346,9 +294,7 @@
 - Gesundheitskarte
 - 学生证
 
-可以先去 Fundbüro 查询，但涉及正式证件时，还要看证件对应的主管机构。
-
-例如：
+可以先去 Fundbüro 查询，但涉及正式证件时，还要看证件对应的主管机构。例如：
 
 - 德国身份证 → Bürgeramt 等主管机构
 - 护照 → 相应主管机关
@@ -390,9 +336,7 @@
 - 水进入墙体
 - 水正在快速扩散
 
-可以先采取能够安全进行的措施，例如关闭相应水源，同时联系房东、物业或紧急维修服务。
-
-如果已经涉及严重危险，应根据情况联系 `112`。
+可以先采取能够安全进行的措施，例如关闭相应水源，同时联系房东、物业或紧急维修服务。如果已经涉及严重危险，应根据情况联系 112。
 
 ---
 
@@ -443,21 +387,13 @@
 - 墙体
 - 固定厨房设备
 
-如果不知道问题原因，不建议自己拆。
-
-租房里的维修问题最好先通知房东或物业。
-
-特别是：
-
-> 拆了以后问题变得更严重，责任和费用也可能变得更复杂。
+如果不知道问题原因，不建议自己拆。租房里的维修问题最好先通知房东或物业。自己拆了以后问题可能会变得更严重，责任和费用也可能变得更复杂。
 
 ---
 
 # 十八、停电怎么办？
 
-先看看：
-
-> 是自己家停电，还是整栋楼甚至附近都停电。
+先看是自己家停电，还是整栋楼甚至附近都停电。
 
 ### 只有自己家
 
@@ -471,20 +407,14 @@
 
 ### 周围也停电
 
-可能是公共供电故障。
-
-这种情况下，问题不一定出在自己家。
-
-如果配电箱出现：
+可能是公共供电故障。这种情况下，问题不一定出在自己家。如果配电箱出现：
 
 - 烧焦味
 - 冒烟
 - 火花
 - 明显烧毁痕迹
 
-不要自己拆电路。
-
-存在火灾危险时，优先离开危险区域并联系 `112`。
+不要自己拆电路。存在火灾危险时，优先离开危险区域并联系 112。
 
 ---
 
@@ -497,9 +427,7 @@
 - 邻居有没有同样的问题？
 - 是否处于供暖系统维护或故障期间？
 
-租房中的固定供暖设备出现故障，可以联系：
-
-`Vermieter / Hausverwaltung`
+租房中的固定供暖设备出现故障，可以联系 Vermieter / Hausverwaltung
 
 把：
 
@@ -507,9 +435,7 @@
 - 什么时间开始
 - 什么现象
 
-告诉对方。
-
-如果天气很冷，也不要拖很久才报告。
+告诉对方。如果天气很冷，也不要拖很久才报告。
 
 ---
 
@@ -531,9 +457,7 @@
 4. 通知房东或物业
 5. 保存沟通记录
 
-不要直接刷一层油漆把霉斑盖住。
-
-因为霉菌背后可能存在：
+不要直接刷一层油漆把霉斑盖住。因为霉菌背后可能存在：
 
 - 潮湿
 - 漏水
@@ -571,9 +495,7 @@
 
 ### Was soll ich tun?
 
-需要自己做什么？
-
-例如：
+需要自己做什么？例如：
 
 - bezahlen
 - antworten
@@ -581,9 +503,7 @@
 - Termin vereinbaren
 - unterschreiben
 
-关于德国信件的详细处理方式，可以看：
-
-`daily-life/0005_Post_and_Letters.md`
+关于德国信件的详细处理方式，可以看 daily-life/0005_Post_and_Letters.md
 
 ---
 
@@ -591,9 +511,7 @@
 
 ### Rechnung
 
-就是账单。
-
-先确认：
+就是账单。先确认：
 
 - 谁开的
 - 对应什么服务
@@ -603,31 +521,17 @@
 
 ### Mahnung
 
-是催款通知。
+是催款通知。收到以后不要直接放着不管。先确认这笔钱到底是不是自己欠的？
 
-收到以后不要直接放着不管。
+如果自己已经付过：找出付款记录。
 
-先确认：
-
-> 这笔钱到底是不是自己欠的？
-
-如果自己已经付过：
-
-> 找出付款记录。
-
-如果根本没有对应的合同或订单：
-
-> 先联系对方核实，不要因为看到 Mahnung 就马上付款。
+如果根本没有对应的合同或订单：先联系对方核实，不要因为看到 Mahnung 就马上付款。
 
 ---
 
 # 二十三、收到可疑账单
 
-如果收到一个自己完全不认识的账单：
-
-不要因为对方写得很正式，就直接付款。
-
-先检查：
+如果收到一个自己完全不认识的账单.不要因为对方写得很正式，就直接付款。先检查：
 
 - 公司名称
 - 地址
@@ -644,15 +548,13 @@
 
 # 二十四、包裹显示已送达，但自己没收到
 
-先看物流记录。
+先看物流记录。可能显示：
 
-可能显示：
-
-- `zugestellt`
-- `beim Nachbarn`
-- `Ablageort`
-- `Paketshop`
-- `Packstation`
+- zugestellt
+- beim Nachbarn
+- Ablageort
+- Paketshop
+- Packstation
 
 检查：
 
@@ -662,19 +564,13 @@
 - Paketshop
 - Packstation
 
-如果仍然没有：
-
-> 联系物流公司和卖家。
-
-如果是网购，也不要只盯着物流公司。订单的具体情况还涉及卖家和购买合同。
+如果仍然没有联系物流公司和卖家。如果是网购，也不要只盯着物流公司。订单的具体情况还涉及卖家和购买合同。
 
 ---
 
 # 二十五、包裹到了，但是包装已经损坏
 
-先拍照。
-
-最好拍：
+先拍照。最好拍：
 
 - 外包装
 - 快递标签
@@ -682,11 +578,7 @@
 - 里面的物品
 - 订单信息
 
-如果商品也损坏：
-
-> 尽快联系卖家，并保留照片。
-
-不要先把外包装全部扔掉。
+如果商品也损坏尽快联系卖家，并保留照片。不要先把外包装全部扔掉。
 
 ---
 
@@ -700,9 +592,7 @@
 - Hausverwaltung
 - 其他上门服务
 
-如果对方没来：
-
-保留：
+如果对方没来, 保留：
 
 - 预约确认
 - 日期
@@ -710,9 +600,7 @@
 - E-Mail
 - SMS
 
-然后联系对方重新确认。
-
-如果因此产生了费用或者其他损失，不要直接假设对方一定需要赔偿。具体要看合同和实际情况。
+然后联系对方重新确认。如果因此产生了费用或者其他损失，不要直接假设对方一定需要赔偿。具体要看合同和实际情况。
 
 ---
 
@@ -728,25 +616,17 @@
 - 停车
 - Hausordnung
 
-如果只是一次普通的小摩擦，可以先沟通。
-
-如果问题持续存在，可以：
-
-> 记录时间和情况 → 联系房东/物业 → 根据问题性质继续处理。
+如果只是一次普通的小摩擦，可以先沟通。如果问题持续存在，可以：记录时间和情况 → 联系房东/物业 → 根据问题性质继续处理。
 
 如果涉及威胁、暴力或者正在发生的危险，则不是普通邻居纠纷的处理方式，可以联系警方。
 
-详细内容见：
-
-`daily-life/0009_Neighbors_and_Noise.md`
+详细内容见 daily-life/0009_Neighbors_and_Noise.md 
 
 ---
 
 # 二十八、遇到问题先留证据
 
-这是德国生活里非常实用的习惯。
-
-看到：
+这是德国生活里非常实用的习惯。看到：
 
 - 漏水
 - 霉菌
@@ -767,27 +647,17 @@
 - Chat记录
 - 订单号
 
-最好顺手记一下：
-
-> 什么时候发现的。
-
-如果问题持续几天，也可以继续拍照记录变化。
+最好顺手记一下什么时候发现的。如果问题持续几天，也可以继续拍照记录变化。
 
 ---
 
 # 二十九、电话说过的事情，重要的话再留一份文字记录
 
-比如你和房东打电话，对方说：
+比如你和房东打电话，对方说周五会派维修工。
 
-> 周五会派维修工。
+可以之后发一封简短的 E-Mail：Wie telefonisch besprochen, kommt der Handwerker am Freitag.
 
-可以之后发一封简短的 E-Mail：
-
-`Wie telefonisch besprochen, kommt der Handwerker am Freitag.`
-
-意思是：
-
-> 按照刚才电话里说的，维修工周五过来。
+意思是：按照刚才电话里说的，维修工周五过来。
 
 这样以后自己回头找记录会方便很多。
 
@@ -806,9 +676,7 @@
 - 账单
 - 服务合同
 
-自己和企业沟通后还是解决不了，可以看看 Verbraucherzentrale 是否提供对应主题的咨询。
-
-它更适合处理消费者和企业之间的问题。
+自己和企业沟通后还是解决不了，可以看看 Verbraucherzentrale 是否提供对应主题的咨询。它更适合处理消费者和企业之间的问题。
 
 如果已经涉及复杂法律争议、法院程序或者金额较大的纠纷，则可能需要其他专业帮助。
 
@@ -845,89 +713,53 @@
 
 ### 问维修
 
-`Ich habe ein Problem mit ...`
+Ich habe ein Problem mit ... 我这边有一个……的问题。
 
-我这边有一个……的问题。
+Es funktioniert nicht. 它不能正常工作。
 
-`Es funktioniert nicht.`
+Es ist kaputt. 它坏了。
 
-它不能正常工作。
+Seit wann besteht das Problem? 这个问题从什么时候开始？
 
-`Es ist kaputt.`
-
-它坏了。
-
-`Seit wann besteht das Problem?`
-
-对方可能会问：
-
-> 这个问题从什么时候开始？
-
-可以回答：
-
-`Seit gestern.`
-
-从昨天开始。
+Seit gestern. 从昨天开始。
 
 ---
 
 ### 问费用
 
-`Wie viel kostet das insgesamt?`
+Wie viel kostet das insgesamt? 总共多少钱？
 
-总共多少钱？
+Sind die Anfahrtskosten enthalten? 包含上门费吗？
 
-`Sind die Anfahrtskosten enthalten?`
-
-包含上门费吗？
-
-`Gibt es zusätzliche Kosten?`
-
-还有其他费用吗？
+Gibt es zusätzliche Kosten? 还有其他费用吗？
 
 ---
 
 ### 说明自己丢东西
 
-`Ich habe meinen Schlüssel verloren.`
+Ich habe meinen Schlüssel verloren. 我的钥匙丢了。
 
-我的钥匙丢了。
+Ich habe mein Handy verloren. 我的手机丢了。
 
-`Ich habe mein Handy verloren.`
+Ich habe meinen Geldbeutel verloren. 我的钱包丢了。
 
-我的手机丢了。
-
-`Ich habe meinen Geldbeutel verloren.`
-
-我的钱包丢了。
-
-`Wo kann ich einen Verlust melden?`
-
-我在哪里可以登记失物？
+Wo kann ich einen Verlust melden? 我在哪里可以登记失物？
 
 ---
 
 ### 联系房东
 
-`In meiner Wohnung gibt es ein Problem mit ...`
+In meiner Wohnung gibt es ein Problem mit ... 我的房子里……出了问题。
 
-我的房子里……出了问题。
+Die Heizung funktioniert nicht. 暖气不工作。
 
-`Die Heizung funktioniert nicht.`
+Es gibt einen Wasserschaden. 出现了漏水/水损问题。
 
-暖气不工作。
-
-`Es gibt einen Wasserschaden.`
-
-出现了漏水/水损问题。
-
-`Könnten Sie bitte jemanden schicken?`
-
-可以请人过来处理吗？
+Könnten Sie bitte jemanden schicken? 可以请人过来处理吗？
 
 ---
 
-# 三十三、最值得养成的几个习惯
+# 三十三、OMA小贴士
 
 ### 手机里保存重要号码
 
@@ -960,9 +792,7 @@
 
 ### 出现问题先拍照
 
-特别是：
-
-> 房屋损坏、漏水、霉菌、包裹破损。
+特别是房屋损坏、漏水、霉菌、包裹破损。
 
 ---
 
@@ -986,48 +816,21 @@
 
 ---
 
-# 三十四、相关内容
-
-- `daily-life/0001_Daily_Life_Overview.md`
-- `daily-life/0002_German_Rules_and_Customs.md`
-- `daily-life/0003_Sundays_and_Holidays.md`
-- `daily-life/0004_Recycling_and_Waste.md`
-- `daily-life/0005_Post_and_Letters.md`
-- `daily-life/0006_Telephone_and_Communication.md`
-- `daily-life/0008_Pfand.md`
-- `daily-life/0009_Neighbors_and_Noise.md`
-- `housing/`
-- `banking/`
-- `healthcare/`
-- `transport/`
-
----
-
 ## 官方查询入口
 
-德国联邦行政服务平台：
+德国联邦行政服务平台：https://verwaltung.bund.de/
 
-https://verwaltung.bund.de/
+德国消费者中心：https://www.verbraucherzentrale.de/
 
-德国消费者中心：
+慕尼黑市：https://stadt.muenchen.de/
 
-https://www.verbraucherzentrale.de/
-
-慕尼黑市：
-
-https://stadt.muenchen.de/
-
-慕尼黑 Fundbüro：
-
-https://stadt.muenchen.de/service/info/fundburo/10338652/
+慕尼黑 Fundbüro：https://stadt.muenchen.de/service/info/fundburo/10338652/
 
 ---
 
-## 总结
+## OMA小结
 
-德国生活里的很多小问题，麻烦的地方不是事情本身，而是：
-
-> **不知道找谁。**
+德国生活里的很多小问题，麻烦的地方不是事情本身，而是 **不知道找谁。**
 
 可以先看问题属于：
 
