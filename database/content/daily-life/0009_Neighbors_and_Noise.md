@@ -111,21 +111,15 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 - 使用高噪音设备
 - 进行明显扰民的装修工作
 
-不是同一种情况。
-
-如果准备在周日进行装修、钻孔、使用电锯等活动，最好先查看 Hausordnung 和当地规定。
+不是同一种情况。如果准备在周日进行装修、钻孔、使用电锯等活动，最好先查看 Hausordnung 和当地规定。
 
 ---
 
 ## 6. 邻居投诉时，先看自己有没有违反 Hausordnung
 
-如果邻居告诉你：
+如果邻居告诉你：Das ist zu laut.
 
-> `Das ist zu laut.`
-
-不要马上只争论“法律有没有规定”。
-
-可以先检查：
+不要马上争论。可以先检查：
 
 1. Hausordnung 有没有相关规定
 2. 当地有没有特殊的 Ruhezeiten
@@ -134,13 +128,7 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 5. 是偶尔一次，还是每天持续发生
 6. 是否已经影响到其他住户
 
-例如：
-
-> 晚上 23:30 播放很大的音乐
-
-和：
-
-> 晚上 23:30 正常洗澡
+例如：晚上 23:30 播放很大的音乐 和 晚上 23:30 正常洗澡
 
 明显不是同一种情况。
 
@@ -152,15 +140,9 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 
 ### 情况比较轻
 
-先直接沟通。
+先直接沟通。例如：Entschuldigung, könnten Sie die Musik bitte etwas leiser machen?
 
-例如：
-
-> `Entschuldigung, könnten Sie die Musik bitte etwas leiser machen?`
-
-或者：
-
-> `Die Musik ist bei uns ziemlich laut zu hören. Könnten Sie sie bitte etwas leiser machen?`
+或者 Die Musik ist bei uns ziemlich laut zu hören. Könnten Sie sie bitte etwas leiser machen?
 
 很多邻里问题到这里就能解决。
 
