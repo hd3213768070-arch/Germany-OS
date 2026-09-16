@@ -285,19 +285,11 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 
 这里需要区分：
 
-`宠物本身存在`
+宠物本身存在 和 宠物造成持续、明显的扰民
 
-和
+是两个问题。另外，宠物能不能养、养什么宠物，还可能受到租赁合同和 Hausordnung 的影响。
 
-`宠物造成持续、明显的扰民`
-
-是两个问题。
-
-另外，宠物能不能养、养什么宠物，还可能受到租赁合同和 Hausordnung 的影响。
-
-具体宠物问题可以继续看：
-
-- `pets/`
+具体宠物问题可以继续看 `pets/`
 
 ---
 
@@ -305,16 +297,14 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 
 德国住宅里的：
 
-- `Treppenhaus` 楼梯间
-- `Hausflur` 走廊
-- `Keller` 地下室
-- `Waschküche` 洗衣房
-- `Fahrradraum` 自行车房
-- `Hof` 庭院
+- Treppenhaus 楼梯间
+- Hausflur 走廊
+- Keller 地下室
+- Waschküche 洗衣房
+- Fahrradraum 自行车房
+- Hof 庭院
 
-通常都有对应的使用规则。
-
-例如楼梯间里是否可以长期放：
+通常都有对应的使用规则。例如楼梯间里是否可以长期放：
 
 - 鞋柜
 - 箱子
@@ -322,39 +312,27 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 - 婴儿车
 - 家具
 
-不能只看“别人也放了”。
-
-先看 Hausordnung 和房屋规定更稳妥。
+不能只看“别人也放了”。先看 Hausordnung 和房屋规定更稳妥。
 
 ---
 
-## 15. 邻居发生冲突时，不建议一开始就把事情升级
+## 15. OMA小结: 邻居发生冲突时，不建议一开始就把事情升级
 
-比较实际的处理方式通常是：
+比较实际的处理方式通常是 沟通 → 记录 → Hausverwaltung / Vermieter → 当地主管部门 → 必要时法律途径
 
-`沟通 → 记录 → Hausverwaltung / Vermieter → 当地主管部门 → 必要时法律途径`
-
-不一定每个问题都需要走完整流程。
-
-例如：
+不一定每个问题都需要走完整流程。例如：
 
 ### 第一次偶尔发生
 
-邻居半夜开了一次派对。
-
-可以直接沟通。
+邻居半夜开了一次派对。可以直接沟通。
 
 ### 每周发生
 
-长期半夜播放很大音乐。
-
-可以记录时间，并联系 Hausverwaltung。
+长期半夜播放很大音乐。可以记录时间，并联系 Hausverwaltung。
 
 ### 严重且持续
 
-已经多次沟通仍没有改善。
-
-可以根据问题性质向负责机构投诉，并保留记录。
+已经多次沟通仍没有改善。可以根据问题性质向负责机构投诉，并保留记录。
 
 ### 正在发生的严重情况
 
@@ -374,13 +352,7 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 - 与邻居沟通记录
 - 相关信件
 
-但记录证据时也要注意隐私和个人权利问题。
-
-例如不要为了证明噪音而随意偷拍、录下邻居的私人谈话。
-
-重点是记录：
-
-`什么时候发生了什么问题`
+但记录证据时也要注意隐私和个人权利问题。例如不要为了证明噪音而随意偷拍、录下邻居的私人谈话。重点是记录：什么时候发生了什么问题
 
 而不是尽可能收集别人的私人信息。
 
@@ -390,122 +362,42 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 
 ### 礼貌提醒
 
-`Entschuldigung, könnten Sie bitte etwas leiser sein?`
+Entschuldigung, könnten Sie bitte etwas leiser sein? 不好意思，可以稍微小声一点吗？
 
-不好意思，可以稍微小声一点吗？
+Die Musik ist bei uns ziemlich laut zu hören. 你们的音乐在我们这里听起来比较大声。
 
-`Die Musik ist bei uns ziemlich laut zu hören.`
-
-你们的音乐在我们这里听起来比较大声。
-
-`Könnten Sie die Musik bitte etwas leiser machen?`
-
-可以把音乐稍微调小一点吗？
+Könnten Sie die Musik bitte etwas leiser machen? 可以把音乐稍微调小一点吗？
 
 ---
 
 ### 询问情况
 
-`Bis wann wird der Lärm ungefähr dauern?`
+Bis wann wird der Lärm ungefähr dauern? 大概会持续到几点？
 
-大概会持续到几点？
-
-`Könnten Sie mir bitte sagen, wann die Arbeiten beendet sind?`
-
-可以告诉我施工大概什么时候结束吗？
+Könnten Sie mir bitte sagen, wann die Arbeiten beendet sind? 可以告诉我施工大概什么时候结束吗？
 
 ---
 
 ### 正式投诉
 
-`Ich möchte eine wiederkehrende Lärmbelästigung melden.`
+Ich möchte eine wiederkehrende Lärmbelästigung melden. 我想反映一个反复发生的噪音问题。
 
-我想反映一个反复发生的噪音问题。
+Die Lärmbelästigung tritt regelmäßig nachts auf. 这个噪音问题经常在夜间发生。
 
-`Die Lärmbelästigung tritt regelmäßig nachts auf.`
-
-这个噪音问题经常在夜间发生。
-
-`Ich habe die Vorfälle dokumentiert.`
-
-我已经记录了相关情况。
+Ich habe die Vorfälle dokumentiert. 我已经记录了相关情况。
 
 ---
 
 ## 18. 慕尼黑遇到邻居噪音，可以查什么
 
-如果你住在慕尼黑，可以直接查看市政府关于：
+如果你住在慕尼黑，可以直接查看市政府关于 Lärmbelästigung oder Ruhestörung 的官方说明。
 
-`Lärmbelästigung oder Ruhestörung`
-
-的官方说明。
-
-慕尼黑市政府目前明确列出了邻里噪音的处理方式、相关 Ruhezeiten 以及需要提供的信息。citeturn0search0
-
-官方入口：
-
-- [Landeshauptstadt München：Lärmbelästigung oder Ruhestörung](https://stadt.muenchen.de/service/info/hauptabteilung-i-sicherheit-und-ordnung-pravention/1080453/)
-- [Landeshauptstadt München：Lärm / Schmutz / Meldungen](https://stadt.muenchen.de/buergerservice/freizeit-hobby/meldungen/schmutz-laerm.html)
+慕尼黑市政府目前明确列出了邻里噪音的处理方式、相关 Ruhezeiten 以及需要提供的信息。
 
 ---
 
-## 19. 德国邻里问题最容易出现的几个误区
 
-### “晚上 10 点后完全不能出声”
-
-不准确。
-
-`Nachtruhe` 主要针对扰民性质的噪音，并不是要求住宅完全没有声音。
-
-### “周日什么家务都不能做”
-
-也不准确。
-
-正常生活和明显扰民的高噪音活动需要区别对待。
-
-### “邻居投诉我，我就违法了”
-
-不一定。
-
-投诉本身不等于已经认定违规。
-
-### “Hausordnung 就是德国法律”
-
-不是。
-
-Hausordnung 是住宅管理规则，法律、地方条例、租赁合同和 Hausordnung 的性质不同。
-
-### “别人家怎么做，我也可以这么做”
-
-也不能这样判断。
-
-别人没有被投诉，不代表这种行为一定符合规定。
-
----
-
-## 20. 住德国公寓，最实用的习惯
-
-入住时先把这些东西保存下来：
-
-- `Mietvertrag`
-- `Hausordnung`
-- `Hausmeister` 联系方式
-- `Hausverwaltung` 联系方式
-- 紧急维修联系方式
-
-平时遇到邻居问题，先确认：
-
-- 什么时间发生
-- 什么声音或问题
-- 偶尔还是持续
-- Hausordnung 怎么规定
-- 有没有当地特殊规定
-
-如果需要正式处理，再把日期、时间和情况整理清楚。
-
----
-
-## 21. 相关内容
+## 19. 相关内容
 
 - [德国日常生活总览](0001_Daily_Life_Overview.md)
 - [德国规则与生活习惯](0002_German_Rules_and_Customs.md)
@@ -516,7 +408,7 @@ Hausordnung 是住宅管理规则，法律、地方条例、租赁合同和 Haus
 
 ---
 
-## 22. 官方查询入口
+## 20. 官方查询入口(如慕尼黑)
 
 - [Landeshauptstadt München](https://www.muenchen.de/)
 - [Landeshauptstadt München：Lärmbelästigung / Ruhestörung](https://stadt.muenchen.de/service/info/hauptabteilung-i-sicherheit-und-ordnung-pravention/1080453/)
