@@ -167,11 +167,7 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 | 17.09.2026 | 22:50–23:40 | 持续敲击 |
 | 20.09.2026 | 23:10–01:00 | 派对、音乐 |
 
-持续记录比单纯说：
-
-> “他们天天很吵。”
-
-更容易说明实际情况。
+持续记录比单纯说： “他们天天很吵。” 更容易说明实际情况。
 
 ---
 
@@ -184,8 +180,8 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 可以先联系：
 
 - 邻居本人
-- `Vermieter`
-- `Hausverwaltung`
+- Vermieter
+- Hausverwaltung
 
 如果是租房关系中的持续问题，也可以咨询租客协会或消费者咨询机构。
 
@@ -195,7 +191,7 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 
 如果噪音正在发生，而且情况严重，可以联系当地负责部门。
 
-在慕尼黑，私人住宅造成的邻里噪音可以向市政府相关部门举报；如果存在需要立即处理的情况，慕尼黑市政府明确建议联系警方。citeturn0search0
+在慕尼黑，私人住宅造成的邻里噪音可以向市政府相关部门举报；如果存在需要立即处理的情况，慕尼黑市政府明确建议联系警方。
 
 ---
 
@@ -203,9 +199,7 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 
 如果需要正式投诉，可以写得具体一些。
 
-例如：
-
-> `Seit mehreren Wochen kommt es regelmäßig zu erheblichen Lärmbelästigungen, insbesondere nachts zwischen 23:00 und 01:00 Uhr. Die Geräusche bestehen überwiegend aus lauter Musik und lautem Stimmengewirr.`
+例如：Seit mehreren Wochen kommt es regelmäßig zu erheblichen Lärmbelästigungen, insbesondere nachts zwischen 23:00 und 01:00 Uhr. Die Geräusche bestehen überwiegend aus lauter Musik und lautem Stimmengewirr.
 
 然后附上：
 
@@ -215,33 +209,22 @@ Nachtruhe 通常会从晚上 22:00 左右开始，但具体规则取决于当地
 - 噪音类型
 - 是否已经尝试沟通
 
-这样比一句：
-
-> `Mein Nachbar ist immer laut.`
-
-有效得多。
 
 ---
 
 ## 10. 如果邻居投诉你
 
-也不代表你一定违规。
+也不代表你一定违规。可以先问清楚：
 
-可以先问清楚：
+> Wann genau war es zu laut?
 
-> `Wann genau war es zu laut?`
+> Welche Geräusche haben Sie gehört?
 
-> `Welche Geräusche haben Sie gehört?`
+> Wie lange hat die Störung gedauert?
 
-> `Wie lange hat die Störung gedauert?`
+如果对方说的是：“你昨天晚上太吵了。”
 
-如果对方说的是：
-
-> “你昨天晚上太吵了。”
-
-可以进一步确认具体是什么声音、几点发生。
-
-如果确实是自己造成的明显噪音，调整一下通常比直接发生争执更简单。
+可以进一步确认具体是什么声音、几点发生。如果确实是自己造成的明显噪音，调整一下通常比直接发生争执更简单。
 
 ---
 
