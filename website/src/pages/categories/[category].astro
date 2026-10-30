@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { categoryDescriptions, categoryNames, getPublishedArticles } from "../../lib/content";
+
+export async function getStaticPaths() {
+  return Object.keys(categoryNames).map((category) => ({ params: { category } }));
+}
+const { category } = Astro.params;
+if (!category) throw new Error("Missing category");
+const articles = (await getPublishedArticles()).filter((article) => article.category === category);
+const title = categoryNames[category] ?? category;
+---
+<BaseLayout title={title} description={categoryDescriptions[category] ?? "Germany OS 分类知识库。"}>
+  <Header />
+  <main class="mx-auto max-w-5xl px-5 py-16 lg:px-8">
+    <a href="/categories/" class="text-sm font-semibold text-moss hover:text-forest">← 返回全部分类</a>
+    <p class="mt-9 text-sm font-bold tracking-[0.16em] text-moss">CATEGORY</p>
+    <h1 class="mt-3 font-display text-5xl font-bold tracking-tight">{title}</h1>
+    <p class="mt-5 max-w-2xl text-lg leading-8 text-slate-600">{categoryDescriptions[category]}</p>
+    {articles.length > 0 ? <div class="mt-12">{articles.map((article) => <ArticleCard article={article} />)}</div> : <div class="mt-12 rounded-2xl border border-dashed border-line bg-sand p-8 text-slate-600">这个分类的内容正在整理中。目录已经建立，完整文章发布后会自动出现在这里。</div>}
+  </main>
+  <Footer />
+</BaseLayout>

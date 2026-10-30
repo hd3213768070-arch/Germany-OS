@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-display: "Noto Serif SC", "Songti SC", Georgia, serif;
+  --color-ink: #16211f;
+  --color-forest: #103b32;
+  --color-moss: #277052;
+  --color-sand: #f4f1ea;
+  --color-paper: #fffefb;
+  --color-line: #d9ded8;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-paper text-ink antialiased; }
+::selection { background: #c7e6d8; color: #103b32; }
+a { @apply transition-colors; }
+.prose-germany { @apply max-w-none text-[1.04rem] leading-8 text-slate-700; }
+.prose-germany > h1:first-child { display: none; }
+.prose-germany h2 { @apply mt-12 scroll-mt-24 font-display text-2xl font-bold tracking-tight text-ink; }
+.prose-germany h3 { @apply mt-8 scroll-mt-24 text-xl font-bold text-ink; }
+.prose-germany p { @apply my-5; }
+.prose-germany ul { @apply my-5 list-disc space-y-2 pl-6; }
+.prose-germany ol { @apply my-5 list-decimal space-y-2 pl-6; }
+.prose-germany a { @apply font-medium text-moss underline decoration-moss/30 underline-offset-4 hover:text-forest; }
+.prose-germany blockquote { @apply my-6 border-l-4 border-moss/40 bg-sand px-5 py-4 text-slate-700; }
+.prose-germany table { @apply my-7 w-full border-collapse overflow-hidden rounded-xl border border-line text-sm; }
+.prose-germany th { @apply bg-sand px-4 py-3 text-left font-semibold; }
+.prose-germany td { @apply border-t border-line px-4 py-3 align-top; }
+.prose-germany code { @apply rounded bg-sand px-1.5 py-0.5 text-sm; }

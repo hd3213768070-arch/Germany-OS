@@ -1,0 +1,18 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { getPublishedArticles } from "../../lib/content";
+const guides = (await getPublishedArticles()).filter((article) => article.category === "how-to");
+---
+<BaseLayout title="办事指南" description="以任务为中心的德国生活、留学与工作行动指南。">
+  <Header />
+  <main class="mx-auto max-w-5xl px-5 py-16 lg:px-8">
+    <p class="text-sm font-bold tracking-[0.16em] text-moss">TASK-BASED GUIDES</p>
+    <h1 class="mt-3 font-display text-5xl font-bold tracking-tight">办事指南</h1>
+    <p class="mt-5 max-w-2xl text-lg leading-8 text-slate-600">按任务组织行动步骤，并链接到相关的完整知识页面。这里不重复规则正文，而是帮助你找到正确的下一步。</p>
+    <div class="mt-12">{guides.map((article) => <ArticleCard article={article} />)}</div>
+  </main>
+  <Footer />
+</BaseLayout>

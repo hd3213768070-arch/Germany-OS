@@ -1,0 +1,66 @@
+---
+import { render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import ReadingProgress from "../components/ReadingProgress.astro";
+import { articleUrl, categoriesFor, categoryNames, getPublishedArticles, type Article } from "../lib/content";
+
+export async function getStaticPaths() {
+  const articles = await getPublishedArticles();
+  return articles.map((article) => ({ params: { slug: article.slug }, props: { article } }));
+}
+
+const { article } = Astro.props as { article: Article };
+const articles = await getPublishedArticles();
+const categoryArticles = articles.filter((item) => item.category === article.category);
+const currentIndex = categoryArticles.findIndex((item) => item.slug === article.slug);
+const previous = categoryArticles[currentIndex - 1];
+const next = categoryArticles[currentIndex + 1];
+const related = articles.filter((item) => item.category === article.category && item.slug !== article.slug).slice(0, 3);
+const categories = categoriesFor(articles);
+const { Content, headings } = await render(article);
+---
+<BaseLayout title={article.title} description={article.description} canonical={articleUrl(article)}>
+  <ReadingProgress />
+  <Header />
+  <main class="mx-auto max-w-[1500px] px-5 py-8 lg:px-8">
+    <div class="grid gap-10 xl:grid-cols-[230px_minmax(0,760px)_230px]">
+      <aside class="hidden xl:block">
+        <nav class="sticky top-28" aria-label="知识库分类">
+          <p class="mb-4 text-xs font-bold tracking-[0.16em] text-slate-500">KNOWLEDGE BASE</p>
+          <ul class="space-y-1 text-sm">
+            {categories.map((category) => <li><a href={`/categories/${category.id}/`} class:list={["block rounded-lg px-3 py-2", category.id === article.category ? "bg-sand font-semibold text-forest" : "text-slate-600 hover:bg-sand hover:text-forest"]}>{category.title}</a></li>)}
+          </ul>
+        </nav>
+      </aside>
+
+      <article data-pagefind-body data-pagefind-filter={`category:${article.category}`} class="min-w-0">
+        <meta data-pagefind-meta="title" content={article.title} />
+        <meta data-pagefind-meta="category" content={categoryNames[article.category] ?? article.category} />
+        <a href={`/categories/${article.category}/`} class="text-sm font-semibold text-moss hover:text-forest">{categoryNames[article.category] ?? article.category}</a>
+        <h1 class="mt-4 font-display text-4xl font-bold leading-tight tracking-tight text-ink sm:text-5xl">{article.title}</h1>
+        <p class="mt-5 text-lg leading-8 text-slate-600">{article.description}</p>
+        {article.data.updated && <p class="mt-5 text-sm text-slate-500">最后更新：{article.data.updated.toLocaleDateString("zh-CN")}</p>}
+        <div class="mt-10 border-t border-line"></div>
+        <div class="prose-germany"><Content /></div>
+
+        <section class="mt-14 border-t border-line pt-8">
+          <div class="grid gap-4 sm:grid-cols-2">
+            {previous ? <a href={articleUrl(previous)} class="rounded-xl border border-line p-4 hover:border-moss"><span class="text-xs text-slate-500">← 上一篇</span><strong class="mt-1 block text-ink">{previous.title}</strong></a> : <span />}
+            {next && <a href={articleUrl(next)} class="rounded-xl border border-line p-4 text-right hover:border-moss"><span class="text-xs text-slate-500">下一篇 →</span><strong class="mt-1 block text-ink">{next.title}</strong></a>}
+          </div>
+        </section>
+        {related.length > 0 && <section class="mt-12"><p class="text-sm font-bold tracking-[0.16em] text-moss">RELATED</p><h2 class="mt-2 font-display text-2xl font-bold">继续阅读</h2><div class="mt-3">{related.map((item) => <a href={articleUrl(item)} class="block border-b border-line py-4 font-semibold text-ink hover:text-moss">{item.title} →</a>)}</div></section>}
+      </article>
+
+      <aside class="xl:block">
+        <details class="xl:sticky xl:top-28" open>
+          <summary class="cursor-pointer list-none text-xs font-bold tracking-[0.16em] text-slate-500">本文目录</summary>
+          {headings.length > 0 ? <ol class="mt-4 space-y-3 border-l border-line pl-4 text-sm leading-5">{headings.filter((heading) => heading.depth <= 3).map((heading) => <li class:list={[heading.depth === 3 && "ml-3"]}><a href={`#${heading.slug}`} class="text-slate-600 hover:text-moss">{heading.text}</a></li>)}</ol> : <p class="mt-4 text-sm text-slate-500">本文暂无可展开目录。</p>}
+        </details>
+      </aside>
+    </div>
+  </main>
+  <Footer />
+</BaseLayout>

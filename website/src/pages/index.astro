@@ -1,0 +1,69 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import CategoryCard from "../components/CategoryCard.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import { categoriesFor, getPublishedArticles } from "../lib/content";
+
+const articles = await getPublishedArticles();
+const categories = categoriesFor(articles);
+const featured = articles.filter((article) => ["education", "housing", "residence", "university", "work", "healthcare"].includes(article.category)).slice(0, 6);
+const recentlyUpdated = [...articles]
+  .filter((article) => article.data.updated)
+  .sort((a, b) => (b.data.updated?.getTime() ?? 0) - (a.data.updated?.getTime() ?? 0))
+  .slice(0, 4);
+---
+<BaseLayout>
+  <Header />
+  <main>
+    <section class="overflow-hidden border-b border-line bg-sand">
+      <div class="mx-auto grid max-w-7xl gap-12 px-5 py-20 lg:grid-cols-[1.25fr_.75fr] lg:px-8 lg:py-28">
+        <div>
+          <p class="text-sm font-bold tracking-[0.18em] text-moss">GERMANY KNOWLEDGE HUB</p>
+          <h1 class="mt-5 max-w-3xl font-display text-5xl font-bold leading-[1.08] tracking-tight text-forest sm:text-6xl">在德国，把复杂的事<br />讲得清楚一点。</h1>
+          <p class="mt-7 max-w-2xl text-lg leading-8 text-slate-700">Germany OS 是面向中文用户的德国生活、学习与工作知识库。寻找可靠路径、理解规则，并把每一步做得更从容。</p>
+          <form action="/search/" class="mt-10 flex max-w-2xl rounded-2xl border border-line bg-white p-2 shadow-sm focus-within:border-moss focus-within:ring-4 focus-within:ring-moss/10">
+            <label class="sr-only" for="home-search">搜索 Germany OS</label>
+            <input id="home-search" name="q" class="min-w-0 flex-1 bg-transparent px-4 py-3 text-base outline-none placeholder:text-slate-400" placeholder="搜索：租房、APS、学生签证、LMU、德国医保…" />
+            <button class="rounded-xl bg-forest px-5 py-3 text-sm font-semibold text-white hover:bg-moss">搜索</button>
+          </form>
+          <p class="mt-4 text-sm text-slate-500">支持中文与德语关键词搜索 · 持续更新的长期知识资产</p>
+        </div>
+        <aside class="self-end rounded-3xl border border-forest/10 bg-forest p-8 text-white shadow-xl">
+          <p class="text-sm font-semibold tracking-[0.15em] text-emerald-200">从问题开始</p>
+          <ol class="mt-6 space-y-5 text-sm leading-6 text-emerald-50">
+            <li><span class="mr-3 font-display text-2xl text-emerald-200">01</span>选择你的身份与目标：留学、工作或长期生活。</li>
+            <li><span class="mr-3 font-display text-2xl text-emerald-200">02</span>用分类、指南与搜索找到可靠的下一步。</li>
+            <li><span class="mr-3 font-display text-2xl text-emerald-200">03</span>把流程、规则与官方信息串成清晰行动。</li>
+          </ol>
+          <a href="/guides/" class="mt-8 inline-block rounded-full bg-white px-5 py-3 text-sm font-semibold text-forest hover:bg-emerald-50">查看办事指南 →</a>
+        </aside>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-7xl px-5 py-18 lg:px-8">
+      <div class="flex items-end justify-between gap-6">
+        <div><p class="text-sm font-bold tracking-[0.14em] text-moss">EXPLORE BY TOPIC</p><h2 class="mt-2 font-display text-3xl font-bold tracking-tight">从你的问题进入知识库</h2></div>
+        <a href="/categories/" class="hidden text-sm font-semibold text-forest hover:text-moss sm:block">全部分类 →</a>
+      </div>
+      <div class="mt-8 grid gap-4 sm:grid-cols-2 xl:grid-cols-3">{categories.map((category) => <CategoryCard {...category} />)}</div>
+    </section>
+
+    <section class="border-y border-line bg-[#f8f8f4]">
+      <div class="mx-auto grid max-w-7xl gap-12 px-5 py-16 lg:grid-cols-[1.35fr_.65fr] lg:px-8">
+        <div>
+          <p class="text-sm font-bold tracking-[0.14em] text-moss">START HERE</p>
+          <h2 class="mt-2 font-display text-3xl font-bold tracking-tight">优先阅读</h2>
+          <div class="mt-5">{featured.map((article) => <ArticleCard article={article} />)}</div>
+        </div>
+        <aside class="rounded-2xl border border-line bg-white p-6">
+          <p class="text-sm font-bold tracking-[0.14em] text-moss">RECENTLY UPDATED</p>
+          <h2 class="mt-2 font-display text-2xl font-bold">最近更新</h2>
+          {recentlyUpdated.length > 0 ? <div class="mt-4">{recentlyUpdated.map((article) => <ArticleCard article={article} compact />)}</div> : <p class="mt-4 text-sm leading-6 text-slate-600">文章更新日期将在内容逐步补充元数据后显示。当前可从分类浏览已发布的完整知识内容。</p>}
+        </aside>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</BaseLayout>
