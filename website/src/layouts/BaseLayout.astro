@@ -1,0 +1,33 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+  canonical?: string;
+}
+
+const { title = "Germany OS｜德国生活与学习知识库", description = "面向中文用户的德国生活、学习与工作知识平台。", canonical } = Astro.props;
+const pageTitle = title.includes("Germany OS") ? title : `${title}｜Germany OS`;
+const site = Astro.site?.toString().replace(/\/$/, "") ?? "https://germany-os.pages.dev";
+const canonicalUrl = canonical ? new URL(canonical, site).toString() : new URL(Astro.url.pathname, site).toString();
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:site_name" content="Germany OS" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

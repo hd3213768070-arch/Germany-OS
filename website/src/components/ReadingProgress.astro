@@ -1,0 +1,11 @@
+<div class="fixed inset-x-0 top-0 z-50 h-1 bg-transparent" aria-hidden="true"><div id="reading-progress" class="h-full w-0 bg-moss"></div></div>
+<script>
+  const progress = document.querySelector<HTMLElement>("#reading-progress");
+  const update = () => {
+    const maximum = document.documentElement.scrollHeight - window.innerHeight;
+    const percent = maximum > 0 ? Math.min(100, (window.scrollY / maximum) * 100) : 0;
+    if (progress) progress.style.width = `${percent}%`;
+  };
+  addEventListener("scroll", update, { passive: true });
+  update();
+</script>
