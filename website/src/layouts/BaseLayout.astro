@@ -21,6 +21,7 @@ const canonicalUrl = canonical ? new URL(canonical, site).toString() : new URL(A
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+{noindex && <meta name="robots" content="noindex, nofollow" />}
     <link rel="canonical" href={canonicalUrl} />
     <meta property="og:site_name" content="Germany OS" />
     <meta property="og:title" content={pageTitle} />
