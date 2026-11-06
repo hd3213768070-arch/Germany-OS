@@ -13,7 +13,11 @@ if (!category) throw new Error("Missing category");
 const articles = (await getPublishedArticles()).filter((article) => article.category === category);
 const title = categoryNames[category] ?? category;
 ---
-<BaseLayout title={title} description={categoryDescriptions[category] ?? "Germany OS 分类知识库。"}>
+<BaseLayout
+  title={title}
+  description={categoryDescriptions[category] ?? "Germany OS 分类知识库。"}
+  noindex={articles.length === 0}
+>
   <Header />
   <main class="mx-auto max-w-5xl px-5 py-16 lg:px-8">
     <a href="/categories/" class="text-sm font-semibold text-moss hover:text-forest">← 返回全部分类</a>
