@@ -1,677 +1,301 @@
-# 0005 Post and Letters
+# 📬 Post and Letters｜德国邮政与信件处理指南
 
-在德国生活，很多重要事情仍然会通过 **Post（邮政）** 和纸质信件完成。尤其是：
+在德国生活，政府机关、银行、保险公司、大学、房东和雇主仍然经常通过纸质信件传递重要信息。信件中可能包含付款要求、合同变更、正式决定或必须在规定期限内完成的事项。
 
-- 政府机关
-- 保险公司
-- 银行
-- 大学
-- 房东或物业
-- 电话和网络运营商
-- 医疗机构
-- 雇主
+因此，收到信件后不要只看寄件人，尤其要检查 **文件内容、Frist（期限）和自己需要采取的行动**。
 
-都可能通过信件向你发送重要文件。
+## 1. 📮 德国常见的邮政服务
 
-❗️所以在德国生活，一个非常重要的习惯就是 **不要忽略邮箱里的信。**
+德国日常邮政服务主要分为信件和包裹：
 
-有些信不仅仅是“通知”，里面可能包含付款要求、办理期限、合同信息或者正式决定。
-
-邮政服务、资费和具体办理方式可能发生变化。涉及价格、营业时间和具体服务时，应以 Deutsche Post 等官方渠道当前公布的信息为准。
-
----
-
-# 一、德国生活中的 Post 主要是什么？
-
-日常生活中经常遇到的 Post 可以分为：
-
-- 普通信件（Brief）
-- 挂号信（Einschreiben）
-- 明信片（Postkarte）
-- 包裹（Paket）
-- 小型寄件服务（例如 Warenpost 等）
-- 官方或商业机构寄来的纸质文件
-
-其中 **Brief 和 Paket 是两个不同的概念。**
-
-- Brief → 信件、小型文件等
-- Paket → 包裹
-
----
-
-# 二、Brief：普通信件
-
-Brief 是德国最常见的邮寄方式之一。例如：
-
-- 银行寄来的信
-- 保险公司通知
-- 学校文件
-- 政府机构信件
-- 普通私人信件
-- 合同文件
-
-普通信件通常放入信封，然后：
-
-1. 写好收件地址
-2. 贴邮票或使用符合要求的邮资
-3. 投入邮筒（Briefkasten）
-4. 或交给邮局工作人员
-
----
-
-# 三、德国信件的地址怎么写？
-
-德国地址按照以下结构：
-
-**姓名**
-
-**街道 + 门牌号**
-
-**邮编 + 城市**
-
-例如：
-
-Max Mustermann  
-Musterstraße 10  
-80333 München
-
-其中：
-
-- Musterstraße = 街道名称
-- 10 = 门牌号
-- 80333 = 邮政编码（PLZ）
-- München = 城市
-
----
-
-# 四、如果住 WG，信上一定要写自己的名字吗？
-
-非常建议。最好确保你的名字能够在：
-
-- 门铃
-- 信箱
-
-上被识别。
-
-因为邮递员需要确认信件应该交给谁。尤其是政府、银行、保险等重要信件：**地址正确并不一定意味着收信一定顺利。**
-
-如果信箱上没有你的名字，可能出现投递困难。
-
----
-
-# 五、门牌号和信箱要注意什么？
-
-德国很多住宅的：
-
-- 房门
-- 门铃
-- 信箱
-
-可能不是完全按照同一个名字排列。
-
-入住新房后建议确认：
-
-1. 门铃上有没有自己的名字
-2. 信箱上有没有自己的名字
-3. 房屋入口是否需要门禁
-4. 信件是否可以正常进入信箱
-
-如果刚搬家，最好尽快完成。
-
----
-
-# 六、Briefkasten：德国的邮筒
-
-Briefkasten 可以指：
-
-- 自己家的信箱
-- Deutsche Post 的公共邮筒
-
-具体语境不同。
-
-### 家里的 Briefkasten
-
-用于接收别人寄给你的信。
-
-### 公共 Briefkasten
-
-用于投递自己要寄出的普通信件。公共邮筒通常有固定的收取时间。
-
-邮筒上会标明：Nächste Leerung (下一次收取时间)
-
-如果你寄的东西很赶，可以先看清楚邮筒什么时候被清空。
-
----
-
-# 七、Briefmarke：邮票
-
-Briefmarke = 邮票
-
-传统方式是：买邮票 → 贴在信封上 → 投入邮筒
-
-现在也可以根据 Deutsche Post 提供的服务使用数字化邮资方式。例如部分信件可以使用：
-
-- 网上购买邮资
-- 手机生成邮资
-- 其他数字邮资服务
-
-具体方式和价格应以 Deutsche Post 当前规定为准。
-
----
-
-# 八、Einschreiben：挂号信
-
-Einschreiben 是德国非常重要的一类邮寄服务。它的核心区别不是“寄得更快”
-
-而是：**提供额外的投递记录或签收证明，具体取决于所选择的 Einschreiben 类型。**
-
-如果你需要证明 “我确实把这封信寄出了。” 或者 “对方确实收到/被投递了。”
-
-就需要考虑 Einschreiben
-
----
-
-# 九、Einschreiben 有不同类型
-
-### Einschreiben Einwurf
-
-邮递员把信件投入收件人的信箱，并记录投递
-
-重点是有投递记录
-
----
-
-### Einschreiben
-
-传统的挂号信形式之一
-
-通常需要由收件人或符合规定的人员接收
-
----
-
-### Einschreiben Rückschein
-
-在此基础上提供更进一步的回执服务。
-
-重点是你可以获得收件相关的证明。
-
----
-
-不同 Einschreiben 的具体法律效果、证明程度和适用场景并不完全相同。
-
----
-
-# 十、什么时候值得使用 Einschreiben？
-
-如果一件事情以后可能需要证明 **“我在某个时间向对方发送了这个东西。”**
-
-就可以考虑 Einschreiben。例如：
-
-- 发送 Kündigung
-- 发送重要合同文件
-- 向机构提交重要材料
-- 需要保留寄送证明的正式文件
-
-但是 **并不是所有 Kündigung 都必须使用 Einschreiben。**
-
-是否需要以及哪一种方式合适，要根据具体合同、法律规定和对方要求判断。
-
----
-
-# 十一、Kündigung 和 Post
-
-德国生活中经常会遇到 Kündigung
-
-例如：
-
-- 租房合同
-- 健身房
-- 电话合同
-- 网络合同
-- 保险
-- 会员
-
-如果合同规定需要书面 Kündigung，那么你需要按照合同要求提交。
-
-这里要特别注意 **“发出去”与“对方收到”可能是两个不同的问题。**
-
-如果期限很重要，就不要最后一天才寄。
-
-建议：
-
-1. 提前准备
-2. 确认合同要求
-3. 选择合适的发送方式
-4. 保存副本
-5. 保存发送/投递证明
-
----
-
-# 十二、为什么德国的“信”需要认真看？
-
-因为你收到的信可能只是普通广告，也可能是非常重要的正式文件。例如：
-
-### 银行
-
-可能包含：
-
-- 账户信息
-- 卡片信息
-- 合同变化
-- 安全通知
-
-### 保险公司
-
-可能包含：
-
-- 保费
-- 合同变化
-- 保险证明
-- 需要你采取行动的通知
-
-### 政府机关
-
-可能包含：
-
-- Bescheid
-- 付款要求
-- 补材料要求
-- Termine
-- Fristen
-
-### 大学
-
-可能包含：
-
-- Zulassung
-- Einschreibung相关文件
-- Prüfungs相关通知
-- 其他行政文件
-
----
-
-# 十三、Bescheid：尤其要注意的正式文件
-
-如果信件里出现 Bescheid, 就应该认真查看。
-
-Bescheid 通常是某个机关针对特定事项作出的正式决定或通知。里面可能包含：
-
-- 决定内容
-- 金额
-- 理由
-- Frist
-- Rechtsbehelfsbelehrung
-
----
-
-# 十四、Frist：收到信后最重要的东西之一
-
-看到一封重要信件，可以先找：
-
-- Frist
-- bis
-- innerhalb von
-- spätestens
-- Antwort
-- Zahlung
-- Widerspruch
-
-例如：Bitte antworten Sie bis zum 30.09.2026.
-
-意思是：请在 2026 年 9 月 30 日之前回复。
-
----
-
-# 十五、信封上的日期也值得保存
-
-收到重要信件时，可以保留：
-
-- 信封
-- 信件本身
-- 附件
-- 相关回执
-
-因为信封上的：
-
-- 邮戳
-- 投递信息
-- 日期
-
-在某些情况下可能有助于证明文件是什么时候寄出的。
-
----
-
-# 十六、不要随便丢掉官方信件
-
-建议建立一个简单的文件夹
-
-里面保存：
-
-- 政府信件
-- 银行信件
-- 保险信件
-- 大学信件
-- 工作相关文件
-- 租房相关文件
-- 重要合同
-- Kündigungen
-- Bescheide
-
-纸质文件可以保存原件。同时也可以扫描或拍照保存电子版。
-
----
-
-# 十七、如果看不懂一封信怎么办？
-
-不要直接忽略。可以先做四件事：
-
-### 第一步：看是谁寄来的
-
-例如：
-
-- Stadt München
-- Finanzamt
-- TK
-- Deutsche Bank
-- Universität
-- Vermieter
-
-### 第二步：看信的标题
-
-例如：
-
-- Bescheid
-- Rechnung
-- Mahnung
-- Kündigung
-- Änderung
-- Aufforderung
-
-### 第三步：找日期和期限
-
-重点找：
-
-- Frist
-- bis
-- innerhalb
-- spätestens
-
-### 第四步：找自己需要做什么
-
-例如：
-
-- bezahlen
-- antworten
-- Unterlagen einreichen
-- Termin vereinbaren
-- unterschreiben
-
----
-
-# 十八、Rechnung、Mahnung 和普通通知不要混淆
-
-### Rechnung
-
-Rechnung = 账单
-👉 需要按照规定支付某项费用
-
----
-
-### Mahnung
-
-Mahnung = 催款/付款提醒
-
-👉对方认为之前应支付的金额还没有支付。
-
-如果收到 Mahnung，不应该直接删除。应该确认：
-
-1. 这是什么费用？
-2. 之前是否已经付款？
-3. 是否确实是自己的合同？
-4. 是否存在付款错误？
-5. 文件要求自己采取什么行动？
-
----
-
-### 普通通知
-
-例如：
-
-Information
-
-Mitteilung
-
-Hinweis
-
-不一定意味着你需要付款或回复。但是仍然应该看清楚内容。
-
----
-
-# 十九、如果信件写错名字怎么办？
-
-例如你的地址正确，但姓名完全错误。
-
-不要默认 “地址对了就没问题。”
-
-如果是重要文件，建议确认：
-
-- 是否确实是给你的
-- 是否可能是上一位住户的信
-- 是否需要联系寄件人
-
-如果明显属于前住户，可以按照德国邮政规定的方式处理退回，而不是长期保留在自己的信箱里。
-
----
-
-# 二十、前住户的信怎么办？
-
-如果你刚搬进新房，可能收到给以前住户的信。不要：
-
-- 打开别人的信
-- 私自查看内容
-- 长期保存
-
-可以按照邮政规定处理，例如在信封上注明收件人已经不住在该地址，并按照规定重新投递。
-
----
-
-# 二十一、搬家以后一定要注意地址
-
-搬家后可能涉及很多地址更新：
-
-- 银行
-- 保险
-- 大学
-- 雇主
-- 电话
-- 网络
-- 政府机关
-- 订阅服务
-- 电商平台
-- 医疗机构
-
-⭕️德国部分机构会直接从官方登记信息获取地址，但**不要因此假设所有机构都会自动更新。** 自己需要确认的重要账户仍然应该主动修改地址。
-
----
-
-# 二十二、Nachsendeauftrag：搬家后的邮件转寄
-
-如果你搬家，可以考虑 Nachsendeauftrag
-
-它的作用是：在一定期限内把寄往旧地址的部分邮件转寄到新地址。
-
-这对于刚搬家的人比较实用。
-
-但要注意 **Nachsendeauftrag 不是“所有邮件都会永久自动转发”。**
-
-具体能转寄什么、转寄多久、价格是多少，应以 Deutsche Post 当前服务条件为准。
-
-因此搬家后仍然应该尽快直接修改各个机构的地址。
-
----
-
-# 二十三、Deutsche Post 和 DHL 不完全是一回事
-
-德国生活中经常会看到：
-
-- Deutsche Post
-- DHL
-
-可以简单理解为：
-
-### Deutsche Post
-
-主要与：
-
-- Brief
-- 信件
-- 邮政服务
-
-有关。
-
-### DHL
-
-主要与：
-
-- Paket
-- 包裹
-- 国际寄送
-- 快递物流
-
-有关。
-
-两者属于同一企业集团体系中的不同品牌/业务。
-
-
----
-
-# 二十四、Brief 和 Paket 怎么简单区分？
-
-| 类型 | 德语 | 典型用途 |
+| 德语 | 中文 | 常见用途 |
 |---|---|---|
-| 信件 | Brief | 文件、普通信件 |
-| 明信片 | Postkarte | 明信片 |
-| 挂号信 | Einschreiben | 需要投递/寄送证明的信件 |
-| 包裹 | Paket | 较大的物品、网购退货等 |
+| Brief | 信件 | 文件、账单、通知 |
+| Postkarte | 明信片 | 贺卡、明信片 |
+| Einschreiben | 挂号信 | 需要寄送或投递记录的信件 |
+| Paket | 包裹 | 网购商品、个人物品 |
+| Päckchen | 小包裹 | 小型物品寄送 |
+| Briefmarke | 邮票 | 支付信件邮资 |
+| Postfach | 邮政信箱 | 在邮局租用的专用收信地址 |
 
-实际选择哪种服务，还要考虑：
+**Deutsche Post 和 DHL：**
 
-- 尺寸
-- 重量
-- 是否需要追踪
-- 是否需要签收
-- 是否需要额外保险
-- 目的地
+- Deutsche Post 主要负责信件及相关邮政服务。
+- DHL 主要负责包裹、快递和物流服务。
 
----
+两者属于同一集团体系，但服务类型、追踪方式和办理渠道有所区别。
 
-# 二十五、寄东西之前先确认三个问题
+## 2. ✉️ Brief：普通信件怎么寄？
 
-### 1. 是 Brief 还是 Paket？
+寄普通信件通常需要完成以下步骤：
 
-不要因为东西“小”就一定按照 Brief 寄。
+1. 将文件放入信封。
+2. 写好收件人地址和寄件人地址（建议保留寄件人地址）。
+3. 根据尺寸、重量和目的地购买对应邮资。
+4. 将邮票贴在信封规定位置，或使用符合要求的数字邮资。
+5. 投入 Deutsche Post 公共邮筒（Briefkasten），也可以交到邮局。
 
-### 2. 是否需要追踪？
+公共邮筒上通常标有 **Nächste Leerung**，表示下一次收取时间。赶时间时可以查看收取时间，避免信件在邮筒里多停留一天。
 
-如果丢失后很重要，可以考虑有追踪功能的服务。
+邮资取决于信件尺寸、重量和寄送目的地。具体价格以 Deutsche Post 当前公布的信息为准。
 
-### 3. 是否需要证明寄送或投递？
+## 3. 🏠 地址怎么写？WG 收信需要注意什么？
 
-如果以后需要证明：“我已经发送/投递了。” 就需要考虑 Einschreiben 等相应服务。
+德国地址通常按照以下格式书写：
 
----
+**Max Mustermann**
 
-# 二十六、👍🏼OMA小建议: 建立一个简单的德国文件管理系统
+**Musterstraße 10**
 
-如果你长期在德国生活，可以把重要文件分成：
+**80333 München**
 
-### 01_University
+| 地址组成 | 德语 | 含义 |
+|---|---|---|
+| 姓名 | Name | 收件人姓名 |
+| 街道 | Straße | 街道名称 |
+| 门牌号 | Hausnummer | 房屋门牌号 |
+| 邮政编码 | PLZ | Postleitzahl |
+| 城市 | Ort / Stadt | 城市名称 |
 
-- Zulassung
-- Immatrikulation
-- Prüfungen
-- Transcript
+如果住在 WG（合租房），建议确保自己的姓名能够在住宅入口的 **Klingel（门铃）** 和 **Briefkasten（家用信箱）** 上被识别。
 
-### 02_Housing
+尤其是银行、保险公司和政府机关寄来的信件，姓名与地址不匹配可能导致投递困难。刚搬进新房时，应尽早确认信箱和门铃上的名字是否正确。
 
-- Mietvertrag
-- Nebenkosten
-- Übergabeprotokoll
-- Kündigung
+注意：这里的 Briefkasten 有两种意思：
+- 家里的信箱：接收寄给自己的信件。
+- 公共邮筒：投递自己要寄出的信件。
 
-### 03_Insurance
+## 4. 📦 Einschreiben：挂号信及不同类型
 
-- Krankenversicherung
-- Versicherungsbescheinigungen
+**Einschreiben** 是附加了投递记录或签收证明的信件服务。它的主要价值是留下寄送、投递或签收记录，而不是保证更快送达。
 
-### 04_Bank
+常见类型：
 
-- Konto
-- Bank correspondence
-- Kreditkarten
+| 类型 | 投递方式 | 主要证明 |
+|---|---|---|
+| Einschreiben Einwurf | 邮递员投入收件人信箱 | 记录投入信箱的时间 |
+| Einschreiben | 交给收件人或有权代收的人 | 签收记录 |
+| Einschreiben Rückschein | 签收后提供回执 | 签收记录及回执 |
 
-### 05_Work
+**如何选择？**
 
-- Arbeitsvertrag
-- Lohnabrechnung
-- Urlaub
-- Arbeitsbescheinigungen
+- 只需要证明信件已投入对方信箱：考虑 Einschreiben Einwurf。
+- 需要对方或有权代收的人签收：考虑 Einschreiben。
+- 需要额外获得书面回执：考虑 Einschreiben Rückschein。
 
-### 06_Government
+寄出后应保存 **Einlieferungsbeleg（寄件凭证）** 和 Sendungsnummer（追踪号码），并下载或保存 Zustellnachweis / Auslieferungsbeleg（投递证明）。
 
-- Bescheide
-- Anmeldung
-- Aufenthalt
-- Steuer
+特别注意：挂号信的投递记录不等于在所有法律场景下都能自动证明有效送达。具体法律效果还要看文件类型、适用规定和投递情况。
 
-这样以后需要找文件的时候会非常快。
+## 5. 📝 Kündigung：解约文件怎么寄？
 
----
+德国生活中经常需要发送 Kündigung，例如：
 
-# 二十七、德国邮政生活最值得记住的几个词
+- Mietvertrag：租房合同
+- Fitnessstudio：健身房会员
+- Handyvertrag：手机合同
+- Internetvertrag：网络合同
+- Versicherung：保险
+- Mitgliedschaft：会员资格
+
+首先要确认合同要求的解约形式（Kündigungsform），例如是否需要书面签名、是否可以电子方式提交，以及对方必须在什么时间之前收到。
+
+如果期限重要，建议提前办理：
+
+1. 检查合同中的 Kündigungsfrist 和 Vertragsende。
+2. 准备解约文件，并保留完整副本。
+3. 选择适合的寄送方式，必要时使用 Einschreiben。
+4. 保存寄件凭证、追踪记录和投递证明。
+5. 要求对方确认解约（Kündigungsbestätigung）。
+
+常用德语：
+
+- **Hiermit kündige ich meinen Vertrag zum nächstmöglichen Zeitpunkt.** 我在此通知终止合同，日期为最早可行的时间。
+- **Bitte bestätigen Sie mir den Eingang meiner Kündigung schriftlich.** 请书面确认收到我的解约通知。
+- **Bitte bestätigen Sie mir das Vertragsende.** 请确认合同结束日期。
+
+重要：**寄出日期和法律上的收到日期可能不同。** 如果合同或法律规定文件必须在某个期限前到达对方，就不要等到最后一天才寄。
+
+## 6. 🏛️ Bescheid、Frist 和重要官方信件
+
+如果收到政府机关或其他机构的信件，应特别留意以下词语：
+
+| 德语 | 中文 | 需要注意 |
+|---|---|---|
+| Bescheid | 正式决定或通知 | 查看决定内容及救济方式 |
+| Frist | 期限 | 可能需要在规定时间内回复 |
+| Zahlungsaufforderung | 付款要求 | 核对金额及付款期限 |
+| Aufforderung | 要求 | 确认需要提交什么材料 |
+| Unterlagen einreichen | 提交材料 | 查看提交方式和截止日期 |
+| Widerspruch | 异议 / 申诉 | 注意法定期限和提交要求 |
+| Rechtsbehelfsbelehrung | 法律救济说明 | 查看如何以及何时提出异议 |
+| Termin | 预约 / 日期 | 确认时间和地点 |
+
+**Bescheid** 通常是机关针对某项事务作出的正式决定，可能涉及：
+
+- 是否批准申请
+- 是否需要缴费
+- 是否需要补交材料
+- 是否可以提出 Widerspruch
+- 如何以及在什么期限内提出法律救济
+
+看到 Bescheid，不要只看第一页或金额，应阅读完整文件及附件。
+
+常见期限表达：
+
+- **bis zum 30.09.2026**：截至 2026 年 9 月 30 日
+- **innerhalb von zwei Wochen**：在两周内
+- **spätestens am 30.09.2026**：最迟在 2026 年 9 月 30 日
+- **ab Zugang des Schreibens**：自收到信件之日起
+
+不同文件的期限起算方式可能不同，不能一概认为从信件打印日期或邮寄日期开始计算。
+
+## 7. 💶 Rechnung、Mahnung 和普通通知
+
+收到信件后，先判断它属于哪种文件。
+
+**Rechnung｜账单**
+
+要求支付某项费用。需要检查：
+- 费用来自哪家公司或机构？
+- 金额是否正确？
+- 付款截止日期（Zahlungsfrist）是什么时候？
+- 是否已经支付？
+
+**Mahnung｜催款通知**
+
+表示寄件方认为之前应支付的款项尚未结清。收到后不要直接忽略，应核对：
+1. 是否确实存在这笔合同或费用？
+2. 是否已经付款？
+3. 金额是否正确？
+4. 是否有额外的 Mahngebühren（催款费用）？
+5. 如果有争议，应该通过什么方式提出异议？
+
+**Information / Mitteilung / Hinweis｜普通通知**
+
+通常是信息或情况说明，不一定需要付款或回复，但仍然要看是否包含期限、合同变更或其他需要采取行动的内容。
+
+## 8. 🔍 收到看不懂的信，应该怎么处理？
+
+可以按照以下顺序快速判断：
+
+1. **看寄件人（Absender）**：例如 Stadt München、Finanzamt、TK、Deutsche Bank、Universität 或 Vermieter。
+2. **看文件标题（Betreff）**：例如 Bescheid、Rechnung、Mahnung、Kündigung、Aufforderung。
+3. **找期限（Frist）**：搜索 bis、innerhalb von、spätestens、Frist。
+4. **找需要做的事情**：例如 bezahlen（付款）、antworten（回复）、Unterlagen einreichen（提交材料）、Termin vereinbaren（预约）或 unterschreiben（签字）。
+5. **保存原件和附件**：如果涉及金额、合同、政府决定或法律期限，建议保留完整信件和信封。
+
+信封上的邮戳、寄送信息和信件本身的日期可能有助于核实寄送过程，但不一定能单独证明法律上的送达日期。
+
+如果看不懂，可以先确认寄件机构和文件类型，再逐段翻译。对于涉及 Widerspruch、付款争议或法律期限的文件，不要只依赖机器翻译，应进一步确认正式要求。
+
+## 9. 🚚 搬家后的地址变更和邮件转寄
+
+搬家后，除了办理住址登记（Anmeldung / Ummeldung），还应检查哪些机构需要更新地址，例如：
+
+- 银行和信用卡
+- Krankenversicherung（医疗保险）
+- Universität（大学）
+- Arbeitgeber（雇主）
+- Vermieter / Hausverwaltung（房东 / 物业）
+- Telefon- und Internetanbieter（电话和网络运营商）
+- 医疗机构
+- 订阅服务和电商平台
+
+部分机构可能会通过官方登记信息更新地址，但不能假设所有机构都会自动获得新地址。
+
+### Nachsendeauftrag｜邮件转寄
+
+搬家时可以向 Deutsche Post 申请 Nachsendeauftrag，将符合条件的信件从旧地址转寄到新地址。
+
+需要注意：
+
+- 这是有期限的转寄服务，不是永久修改所有机构的地址。
+- 普通信件和部分挂号信可以转寄。
+- DHL Paket、Päckchen 等包裹通常不包含在标准邮件转寄服务中。
+- 如果收件人姓名不在申请资料中，信件可能无法转寄。
+- 应提前申请，Deutsche Post 建议至少在开始转寄前 5 个工作日办理。
+
+因此，Nachsendeauftrag 只能作为搬家过渡期的辅助措施，仍然需要主动通知各个机构修改地址。
+
+## 10. 📬 收到前住户的信怎么办？
+
+刚搬进新房时，可能收到寄给前住户的信件。
+
+正确做法：
+
+- 不要打开别人的信。
+- 不要长期留在自己的信箱里。
+- 可以在信封上注明 **„Empfänger unbekannt verzogen“**（收件人已搬离，无法确认新地址），并按照邮政规定退回。
+
+如果只是姓名拼写错误，但地址确实是自己的，也不要随意丢弃重要信件，应先确认寄件人和收件人是否正确。
+
+## 11. 📁 重要信件和文件怎么保存？
+
+建议建立一个简单的电子文件夹，将纸质文件扫描或拍照备份，并保留需要保存的原件。
+
+例如：
+
+| 文件夹 | 建议保存的文件 |
+|---|---|
+| 01_University | Zulassung、Immatrikulation、Prüfungen |
+| 02_Housing | Mietvertrag、Nebenkosten、Übergabeprotokoll、Kündigung |
+| 03_Insurance | Krankenversicherung、Versicherungsbescheinigungen |
+| 04_Bank | Kontoauszüge、银行通知、信用卡文件 |
+| 05_Work | Arbeitsvertrag、Lohnabrechnung、Arbeitsbescheinigungen |
+| 06_Government | Bescheide、Anmeldung、Aufenthalt、Steuer |
+| 07_Post | Einschreiben 凭证、重要信件、投递证明 |
+
+涉及合同、付款、保险和政府决定的文件，尤其要保留完整内容及附件，不要只保存第一页。
+
+## 12. 🗣️ 常用德语词汇
 
 | 德语 | 中文 |
 |---|---|
 | Post | 邮政 |
 | Brief | 信件 |
-| Briefkasten | 信箱 / 邮筒 |
+| Briefkasten | 家用信箱 / 公共邮筒 |
 | Briefmarke | 邮票 |
 | Einschreiben | 挂号信 |
-| Einschreiben Einwurf | 投入信箱并记录投递的挂号形式 |
+| Einschreiben Einwurf | 投入信箱并记录投递的挂号信 |
 | Rückschein | 回执 |
 | Paket | 包裹 |
+| Päckchen | 小包裹 |
 | Absender | 寄件人 |
 | Empfänger | 收件人 |
 | Adresse | 地址 |
 | Straße | 街道 |
 | Hausnummer | 门牌号 |
 | PLZ | 邮政编码 |
+| Postfiliale | 邮局网点 |
+| Sendungsnummer | 邮件追踪号码 |
+| Zustellnachweis | 投递证明 |
+| Nachsendeauftrag | 邮件转寄服务 |
+| Bescheid | 正式决定 / 通知 |
 | Frist | 期限 |
-| Bescheid | 正式决定/通知文件 |
 | Rechnung | 账单 |
 | Mahnung | 催款通知 |
-| Kündigung | 解约/终止通知 |
-| Nachsendeauftrag | 邮件转寄服务 |
+| Kündigung | 解约 / 终止通知 |
+| Widerspruch | 异议 / 申诉 |
+| Rechtsbehelfsbelehrung | 法律救济说明 |
 
+## 🔗 官方查询入口
 
----
+- **Deutsche Post**：<https://www.deutschepost.de/>  
+  查询信件邮资、邮筒、邮局、Einschreiben 和 Nachsendeauftrag。
 
-## 官方查询入口
+- **DHL**：<https://www.dhl.de/>  
+  查询包裹寄送、追踪、取件和退货服务。
 
-Deutsche Post：
+- **Bundesnetzagentur**：<https://www.bundesnetzagentur.de/>  
+  查询邮政服务相关消费者权益及投诉信息。
 
-https://www.deutschepost.de/
+## 📝 OMA 小结
 
-DHL：
+德国纸质信件最重要的不是收到多少封，而是不要错过其中的期限和要求。
 
-https://www.dhl.de/
+养成一个简单的习惯：
 
----
+**收到信 → 确认寄件人 → 判断文件类型 → 检查 Frist → 按要求处理 → 保存原件和记录。**
 
-## ⭕️OMA小结
-
-德国生活中，很多重要信息仍然会通过纸质信件发送。
-
-更重要的是： **收到信 → 看清楚是谁寄的 → 判断是什么文件 → 检查 Frist → 按要求处理 → 保存记录。**
-
-特别是涉及政府、银行、保险、大学、房屋和合同的信件，建议养成**及时查看、及时处理、长期保存**的习惯。
+尤其是政府、银行、保险、大学、租房和合同相关信件，建议及时查看、及时处理，不要随手丢弃。
