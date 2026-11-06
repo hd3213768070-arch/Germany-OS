@@ -4,7 +4,7 @@ import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import { categoryNames } from "../../lib/content";
 ---
-<BaseLayout title="搜索" description="搜索 Germany OS 的德国生活、学习与工作知识库。">
+<BaseLayout title="搜索" description="搜索 Germany OS 的德国生活、学习与工作知识库。" noindex>
   <Header />
   <main class="mx-auto max-w-4xl px-5 py-16 lg:px-8">
     <p class="text-sm font-bold tracking-[0.16em] text-moss">SEARCH THE KNOWLEDGE BASE</p>
@@ -18,7 +18,7 @@ import { categoryNames } from "../../lib/content";
         {Object.entries(categoryNames).map(([id, title]) => <option value={id}>{title}</option>)}
       </select>
     </div>
-    <p id="search-status" class="mt-5 text-sm text-slate-500">正在加载搜索索引…</p>
+    <p id="search-status" class="mt-5 text-sm text-slate-500" aria-live="polite">正在加载搜索索引…</p>
     <div id="results" class="mt-6"></div>
   </main>
   <Footer />
@@ -33,27 +33,42 @@ import { categoryNames } from "../../lib/content";
   query.value = initial;
   let pagefind;
 
-  const escapeHtml = (value) => value.replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#039;", '"': "&quot;" })[char]);
+  let debounceTimer;
+  const escapeHtml = (value = "") => String(value).replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#039;", '"': "&quot;" })[char]);
+  const safeUrl = (value = "") => {
+    try {
+      const url = new URL(value, location.origin);
+      return url.origin === location.origin ? `${url.pathname}${url.search}${url.hash}` : "#";
+    } catch { return "#"; }
+  };
+  const renderEmpty = () => "<p class='rounded-xl border border-dashed border-line bg-sand px-5 py-8 text-slate-600'>没有找到匹配内容。可以尝试更短的中文、德语或英文关键词。</p>";
   async function search() {
     const term = query.value.trim();
     if (!term) { results.innerHTML = ""; status.textContent = "输入关键词即可搜索已发布内容。"; return; }
+    if (!pagefind) { status.textContent = "搜索索引尚未准备好，请稍后重试。"; return; }
     status.textContent = "正在搜索…";
-    const selected = category.value;
-    const searchResult = await pagefind.search(term, selected ? { filters: { category: selected } } : {});
-    const records = await Promise.all(searchResult.results.map((result) => result.data()));
-    status.textContent = `找到 ${records.length} 条结果`;
-    results.innerHTML = records.map((record) => `<article class="border-b border-line py-6"><p class="text-xs font-semibold text-emerald-700">${escapeHtml(record.meta.category || "Germany OS")}</p><h2 class="mt-2 text-xl font-bold"><a class="hover:text-emerald-700" href="${record.url}">${escapeHtml(record.meta.title || record.title)}</a></h2><p class="mt-2 leading-7 text-slate-600">${record.excerpt || ""}</p></article>`).join("") || "<p class='py-8 text-slate-600'>没有找到匹配内容。可以尝试更短的中文或德语关键词。</p>";
+    try {
+      const selected = category.value;
+      const searchResult = await pagefind.search(term, selected ? { filters: { category: selected } } : {});
+      const records = await Promise.all(searchResult.results.map((result) => result.data()));
+      status.textContent = records.length ? `找到 ${records.length} 条结果` : "没有找到匹配内容";
+      results.innerHTML = records.map((record) => `<article class="border-b border-line py-6"><p class="text-xs font-semibold text-emerald-700">${escapeHtml(record.meta.category || "Germany OS")}</p><h2 class="mt-2 text-xl font-bold"><a class="hover:text-emerald-700" href="${safeUrl(record.url)}">${escapeHtml(record.meta.title || record.title)}</a></h2><p class="mt-2 leading-7 text-slate-600">${escapeHtml(String(record.excerpt || "").replace(/<[^>]*>/g, " "))}</p></article>`).join("") || renderEmpty();
+    } catch (error) {
+      console.error("Pagefind search failed", error);
+      status.textContent = "搜索暂时不可用，请稍后重试。";
+      results.innerHTML = "<p class='rounded-xl border border-dashed border-line bg-sand px-5 py-8 text-slate-600'>搜索服务暂时不可用。你可以通过分类浏览内容，或稍后再次尝试。</p>";
+    }
   }
   async function boot() {
     try {
       pagefind = await import("/pagefind/pagefind.js");
       status.textContent = "输入关键词即可搜索已发布内容。";
-      if (initial) search();
+      if (initial) await search();
     } catch {
       status.textContent = "搜索索引暂不可用，请在网站构建完成后重试。";
     }
   }
-  query.addEventListener("input", () => { clearTimeout(window.searchTimer); window.searchTimer = setTimeout(search, 180); });
+  query.addEventListener("input", () => { clearTimeout(debounceTimer); debounceTimer = setTimeout(search, 180); });
   category.addEventListener("change", search);
   document.addEventListener("keydown", (event) => { if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "k") { event.preventDefault(); query.focus(); } });
   boot();
