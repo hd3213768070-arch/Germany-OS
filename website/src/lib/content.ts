@@ -1,5 +1,6 @@
 import { getCollection, type CollectionEntry } from "astro:content";
 import { readFile } from "node:fs/promises";
+import { isPublicMarkdown, segmentToSlug, stripFrontmatter } from "./content-rules";
 
 export type Article = CollectionEntry<"articles"> & {
   category: string;
@@ -49,7 +50,6 @@ export const categoryDescriptions: Record<string, string> = {
   work: "求职、合同、学生工与德国职场。"
 };
 
-const stripFrontmatter = (value: string) => value.replace(/^---\s*[\s\S]*?---\s*/m, "");
 const stripEmoji = (value: string) => value.replace(/[\p{Extended_Pictographic}]/gu, "").trim();
 const words = (value: string) => value.replace(/^\d{4}_/, "").replace(/_/g, " ").replace(/-/g, " ");
 
@@ -67,27 +67,13 @@ function descriptionFromBody(body: string, fallback: string) {
   return text.length > 155 ? `${text.slice(0, 152).trim()}…` : text || fallback;
 }
 
-function segmentToSlug(segment: string) {
-  return segment.replace(/^\d{4}_/, "").replace(/_/g, "-").toLowerCase();
-}
-
-function hasSubstantialBody(body: string) {
-  const text = stripFrontmatter(body)
-    .replace(/^#\s+.+$/m, "")
-    .replace(/[`*_>#|\-]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-  return text.length >= 180;
-}
-
 async function asArticle(entry: CollectionEntry<"articles">): Promise<Article | undefined> {
   const parts = entry.id.split("/");
   const filename = parts.at(-1) ?? "";
   const category = parts[0];
-  if (!category || filename.toLowerCase() === "readme") return undefined;
-  if (entry.data.status === "draft") return undefined;
+  if (!category) return undefined;
   const body = entry.filePath ? await readFile(entry.filePath, "utf8") : "";
-  if (entry.data.status !== "published" && !hasSubstantialBody(body)) return undefined;
+  if (!isPublicMarkdown({ filename, body, status: entry.data.status })) return undefined;
 
   const order = Number.parseInt(filename.match(/^(\d{4})_/)?.[1] ?? "9999", 10);
   return Object.assign(entry, {

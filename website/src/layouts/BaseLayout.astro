@@ -17,11 +17,11 @@ const canonicalUrl = canonical ? new URL(canonical, site).toString() : new URL(A
 <!doctype html>
 <html lang="zh-CN">
   <head>
-<meta name="google-site-verification" content="1Vi0tiTrw573Oau9ubgBxotzpNJNCSHVkcaclPEUC7Q" />
+    <meta name="google-site-verification" content="1Vi0tiTrw573Oau9ubgBxotzpNJNCSHVkcaclPEUC7Q" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-{noindex && <meta name="robots" content="noindex, nofollow" />}
+    {noindex && <meta name="robots" content="noindex,follow" />}
     <link rel="canonical" href={canonicalUrl} />
     <meta property="og:site_name" content="Germany OS" />
     <meta property="og:title" content={pageTitle} />
