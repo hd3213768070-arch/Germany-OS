@@ -20,6 +20,7 @@ const next = categoryArticles[currentIndex + 1];
 const related = articles.filter((item) => item.category === article.category && item.slug !== article.slug).slice(0, 3);
 const categories = categoriesFor(articles);
 const { Content, headings } = await render(article);
+const formatDate = (date: Date) => new Intl.DateTimeFormat("zh-CN", { year: "numeric", month: "long", day: "numeric" }).format(date);
 ---
 <BaseLayout title={article.title} description={article.description} canonical={articleUrl(article)}>
   <ReadingProgress />
@@ -35,13 +36,18 @@ const { Content, headings } = await render(article);
         </nav>
       </aside>
 
+      <details class="rounded-xl border border-line bg-sand px-4 py-3 xl:hidden">
+        <summary class="cursor-pointer text-sm font-semibold text-forest">本文目录</summary>
+        {headings.length > 0 && <ol class="mt-4 space-y-3 border-l border-line pl-4 text-sm leading-5">{headings.filter((heading) => heading.depth <= 3).map((heading) => <li class:list={[heading.depth === 3 && "ml-3"]}><a href={`#${heading.slug}`} class="text-slate-600 hover:text-moss">{heading.text}</a></li>)}</ol>}
+      </details>
+
       <article data-pagefind-body data-pagefind-filter={`category:${article.category}`} class="min-w-0">
         <meta data-pagefind-meta="title" content={article.title} />
         <meta data-pagefind-meta="category" content={categoryNames[article.category] ?? article.category} />
         <a href={`/categories/${article.category}/`} class="text-sm font-semibold text-moss hover:text-forest">{categoryNames[article.category] ?? article.category}</a>
         <h1 class="mt-4 font-display text-4xl font-bold leading-tight tracking-tight text-ink sm:text-5xl">{article.title}</h1>
         <p class="mt-5 text-lg leading-8 text-slate-600">{article.description}</p>
-        {article.data.updated && <p class="mt-5 text-sm text-slate-500">最后更新：{article.data.updated.toLocaleDateString("zh-CN")}</p>}
+        {(article.data.updated || article.data.reviewed) && <dl class="mt-5 flex flex-wrap gap-x-5 gap-y-1 text-sm text-slate-500"><div>{article.data.updated && <><dt class="sr-only">最后更新</dt><dd>最后更新：{formatDate(article.data.updated)}</dd></>}</div><div>{article.data.reviewed && <><dt class="sr-only">最近审核</dt><dd>最近审核：{formatDate(article.data.reviewed)}</dd></>}</div></dl>}
         <div class="mt-10 border-t border-line"></div>
         <div class="prose-germany"><Content /></div>
 
@@ -54,7 +60,7 @@ const { Content, headings } = await render(article);
         {related.length > 0 && <section class="mt-12"><p class="text-sm font-bold tracking-[0.16em] text-moss">RELATED</p><h2 class="mt-2 font-display text-2xl font-bold">继续阅读</h2><div class="mt-3">{related.map((item) => <a href={articleUrl(item)} class="block border-b border-line py-4 font-semibold text-ink hover:text-moss">{item.title} →</a>)}</div></section>}
       </article>
 
-      <aside class="xl:block">
+      <aside class="hidden xl:block">
         <details class="xl:sticky xl:top-28" open>
           <summary class="cursor-pointer list-none text-xs font-bold tracking-[0.16em] text-slate-500">本文目录</summary>
           {headings.length > 0 ? <ol class="mt-4 space-y-3 border-l border-line pl-4 text-sm leading-5">{headings.filter((heading) => heading.depth <= 3).map((heading) => <li class:list={[heading.depth === 3 && "ml-3"]}><a href={`#${heading.slug}`} class="text-slate-600 hover:text-moss">{heading.text}</a></li>)}</ol> : <p class="mt-4 text-sm text-slate-500">本文暂无可展开目录。</p>}

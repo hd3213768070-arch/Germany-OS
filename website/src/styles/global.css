@@ -24,7 +24,7 @@ a { @apply transition-colors; }
 .prose-germany ol { @apply my-5 list-decimal space-y-2 pl-6; }
 .prose-germany a { @apply font-medium text-moss underline decoration-moss/30 underline-offset-4 hover:text-forest; }
 .prose-germany blockquote { @apply my-6 border-l-4 border-moss/40 bg-sand px-5 py-4 text-slate-700; }
-.prose-germany table { @apply my-7 w-full border-collapse overflow-hidden rounded-xl border border-line text-sm; }
+.prose-germany table { @apply my-7 block w-full overflow-x-auto border-collapse rounded-xl border border-line text-sm; }
 .prose-germany th { @apply bg-sand px-4 py-3 text-left font-semibold; }
 .prose-germany td { @apply border-t border-line px-4 py-3 align-top; }
 .prose-germany code { @apply rounded bg-sand px-1.5 py-0.5 text-sm; }
